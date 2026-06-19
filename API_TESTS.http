@@ -1,0 +1,96 @@
+### Lanka Vacations API Tests
+### Use with REST Client extension in VS Code
+
+### 1. Health Check
+GET http://localhost:5000/api/health
+
+### 2. Get All Destinations
+GET http://localhost:5000/api/destinations
+
+### 3. Get All Packages
+GET http://localhost:5000/api/packages
+
+### 4. Get Specific Package
+GET http://localhost:5000/api/packages/pkg_001
+
+### 5. Get Map Destinations
+GET http://localhost:5000/api/map/destinations
+
+### 6. Get Hotels (All)
+GET http://localhost:5000/api/map/hotels
+
+### 7. Get Hotels by Budget
+GET http://localhost:5000/api/map/hotels?max_price=100
+
+### 8. Get Hotels by Destination
+GET http://localhost:5000/api/map/hotels?destination_id=dest_004
+
+### 9. Get Package Route
+GET http://localhost:5000/api/map/package/pkg_001/route
+
+### 10. Generate Custom Itinerary
+POST http://localhost:5000/api/itinerary/generate
+Content-Type: application/json
+
+{
+  "session_id": "test-session-123",
+  "interests": ["beach", "cultural", "wildlife"],
+  "budget": "1500",
+  "exact_days": 7,
+  "preferred_destinations": ["Kandy", "Mirissa", "Yala"],
+  "accommodation_type": "standard",
+  "starting_point": "Colombo"
+}
+
+### 11. Get Itinerary Map Data (replace :id with actual response_id from above)
+GET http://localhost:5000/api/itinerary/REPLACE_WITH_ID/map-data
+
+### 12. Get Activities
+GET http://localhost:5000/api/activities
+
+### ADMIN ENDPOINTS (Require JWT Token)
+### First, you need to implement admin login to get token
+
+### 13. Create Destination (Admin)
+POST http://localhost:5000/api/admin/destinations
+Content-Type: application/json
+Authorization: Bearer YOUR_JWT_TOKEN_HERE
+
+{
+  "destination_name": "Jaffna",
+  "type": "city",
+  "description": "Northern cultural capital of Sri Lanka",
+  "latitude": 9.6615,
+  "longitude": 80.0255,
+  "best_visit_start": "jan",
+  "best_visit_end": "dec",
+  "tags": ["Cultural", "Tamil", "Northern"],
+  "image_url": "https://example.com/jaffna.jpg"
+}
+
+### 14. Create Hotel (Admin)
+POST http://localhost:5000/api/admin/hotels
+Content-Type: application/json
+Authorization: Bearer YOUR_JWT_TOKEN_HERE
+
+{
+  "hotel_name": "Test Beach Resort",
+  "destination_id": "dest_016",
+  "type": "4_star_superior",
+  "address": "Beach Road, Mirissa",
+  "price_per_night_usd": 120,
+  "room_types": ["single", "double", "suite"],
+  "meal_plans": ["breakfast_only", "half_board"],
+  "amenities": ["wifi", "pool", "restaurant", "spa"],
+  "image_urls": ["https://example.com/hotel1.jpg"],
+  "contact_email": "info@testresort.com",
+  "contact_phone": "+94771234567"
+}
+
+### 15. Get All Admin Destinations
+GET http://localhost:5000/api/admin/destinations
+Authorization: Bearer YOUR_JWT_TOKEN_HERE
+
+### 16. Get All Admin Hotels
+GET http://localhost:5000/api/admin/hotels
+Authorization: Bearer YOUR_JWT_TOKEN_HERE

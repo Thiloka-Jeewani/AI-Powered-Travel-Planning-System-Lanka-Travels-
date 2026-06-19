@@ -1,0 +1,97 @@
+### Expert System API Tests
+### Use with REST Client extension in VS Code
+
+### 1. Test Family Beach Vacation
+POST http://localhost:5000/api/expert-system/recommend
+Content-Type: application/json
+
+{
+  "timing": "3-6 months",
+  "duration": "7-10 days",
+  "travelerType": "Family with kids",
+  "interests": "Beaches & Relaxation",
+  "accommodation": "Mid-range Hotels",
+  "budget": "$2,000 - $3,500",
+  "transportation": "Yes, private car with driver"
+}
+
+###
+
+### 2. Test Solo Wildlife Adventure
+POST http://localhost:5000/api/expert-system/recommend
+Content-Type: application/json
+
+{
+  "timing": "1-3 months",
+  "duration": "5-7 days",
+  "travelerType": "Solo traveler",
+  "interests": "Wildlife & Nature",
+  "accommodation": "Eco-lodges",
+  "budget": "$1,000 - $2,000",
+  "transportation": "Yes, shared tours"
+}
+
+###
+
+### 3. Test Couple Cultural Tour
+POST http://localhost:5000/api/expert-system/recommend
+Content-Type: application/json
+
+{
+  "timing": "6-12 months",
+  "duration": "7-10 days",
+  "travelerType": "Couple",
+  "interests": "Cultural & Historical Sites",
+  "accommodation": "Boutique Guesthouses",
+  "budget": "$2,000 - $3,500",
+  "transportation": "Yes, private car with driver"
+}
+
+###
+
+### 4. Test Adventure Group
+POST http://localhost:5000/api/expert-system/recommend
+Content-Type: application/json
+
+{
+  "timing": "3-6 months",
+  "duration": "10-14 days",
+  "travelerType": "Group of friends",
+  "interests": "Adventure & Sports",
+  "accommodation": "Mid-range Hotels",
+  "budget": "$1,000 - $2,000",
+  "transportation": "Yes, private car with driver"
+}
+
+###
+
+### 5. Test Food & Culture Experience
+POST http://localhost:5000/api/expert-system/recommend
+Content-Type: application/json
+
+{
+  "timing": "Just exploring options",
+  "duration": "5-7 days",
+  "travelerType": "Couple",
+  "interests": "Food & Local Experiences",
+  "accommodation": "Boutique Guesthouses",
+  "budget": "$2,000 - $3,500",
+  "transportation": "Yes, private car with driver"
+}
+
+###
+
+### 6. Get Current Weights (Admin)
+GET http://localhost:5000/api/expert-system/weights
+
+###
+
+### 7. Test with Missing Fields (Should fail)
+POST http://localhost:5000/api/expert-system/recommend
+Content-Type: application/json
+
+{
+  "duration": "7-10 days"
+}
+
+###

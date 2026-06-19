@@ -1,0 +1,68 @@
+services:
+  mysql:
+    image: mysql:8.0
+    container_name: lanka_vacations_db
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: Aabid2004@
+      MYSQL_DATABASE: lanka_vacations
+      MYSQL_USER: lanka_user
+      MYSQL_PASSWORD: lanka_pass_2024
+    ports:
+      - "3307:3306"
+    volumes:
+      - mysql_data:/var/lib/mysql
+      - ./databaseupdated.sql:/docker-entrypoint-initdb.d/init.sql
+    networks:
+      - lanka_network
+    healthcheck:
+      test: ["CMD", "mysqladmin", "ping", "-h", "localhost"]
+      timeout: 20s
+      retries: 10
+
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: lanka_vacations_backend
+    restart: always
+    ports:
+      - "5000:5000"
+    environment:
+      DB_HOST: mysql
+      DB_USER: root
+      DB_PASSWORD: Aabid2004@
+      DB_NAME: lanka_vacations
+      DB_CHARSET: utf8mb4
+      PORT: 5000
+      NODE_ENV: development
+      JWT_SECRET: lanka_vacations_super_secret_key_2024
+      FRONTEND_URL: http://localhost:8080
+    depends_on:
+      mysql:
+        condition: service_healthy
+    networks:
+      - lanka_network
+    volumes:
+      - ./backend:/app
+      - /app/node_modules
+
+  frontend:
+    build:
+      context: .
+      dockerfile: Dockerfile.frontend
+    container_name: lanka_vacations_frontend
+    restart: always
+    ports:
+      - "8080:80"
+    depends_on:
+      - backend
+    networks:
+      - lanka_network
+
+volumes:
+  mysql_data:
+
+networks:
+  lanka_network:
+    driver: bridge
