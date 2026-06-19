@@ -1,0 +1,9 @@
+{
+  "hotel_types": [
+    "budget",
+    "luxury",
+    "standard"
+  ],
+  "count": 3,
+  "extracted_date": "2026-02-04"
+}

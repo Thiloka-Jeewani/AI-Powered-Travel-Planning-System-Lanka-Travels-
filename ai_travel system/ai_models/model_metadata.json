@@ -1,0 +1,49 @@
+{
+    "model_type": "RandomForestRegressor",
+    "target_column": "price",
+    "training_date": "2026-02-04 14:24:34",
+    "dataset_shape": [
+        330,
+        5
+    ],
+    "features_count": 4,
+    "best_parameters": {
+        "regressor__max_depth": 10,
+        "regressor__min_samples_leaf": 1,
+        "regressor__min_samples_split": 5,
+        "regressor__n_estimators": 200
+    },
+    "performance_metrics": {
+        "training": {
+            "mse": 2091931.6500590015,
+            "rmse": 1446.3511503293387,
+            "mae": 1022.2517063191436,
+            "r2": 0.9764361290406541
+        },
+        "test": {
+            "mse": 8259793.181619752,
+            "rmse": 2873.985591755768,
+            "mae": 2240.287613636364,
+            "r2": 0.9016527209786291
+        },
+        "tuned_test": {
+            "mse": 8100293.105168824,
+            "rmse": 2846.1013870150205,
+            "mae": 2246.3881088208786,
+            "r2": 0.9035518482543042
+        },
+        "cross_validation": {
+            "mean_score": 0.8529951795196101,
+            "std_score": 0.03960190897297178
+        }
+    },
+    "feature_columns": {
+        "numeric": [],
+        "categorical": [
+            "hotel_name",
+            "destination",
+            "type",
+            "allowedguest"
+        ]
+    }
+}

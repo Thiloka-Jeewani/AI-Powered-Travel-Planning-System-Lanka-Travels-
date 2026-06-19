@@ -1,0 +1,57 @@
+{
+  "app_config": {
+    "name": "Hotel Recommendation System",
+    "version": "1.0.0",
+    "data_source": "hotel_dataset.xlsx"
+  },
+  "data_files": {
+    "destinations": "destinations.json",
+    "hotel_names": "hotel_names.json",
+    "hotel_types": "hotel_types.json",
+    "price_categories": "price_categories.json",
+    "complete_data": "complete_hotel_data.json"
+  },
+  "price_ranges": [
+    {
+      "label": "Budget (Under $50)",
+      "value": "budget",
+      "min": 0,
+      "max": 5000
+    },
+    {
+      "label": "Economy ($50-$100)",
+      "value": "economy",
+      "min": 5000,
+      "max": 10000
+    },
+    {
+      "label": "Mid-range ($100-$200)",
+      "value": "midrange",
+      "min": 10000,
+      "max": 20000
+    },
+    {
+      "label": "Luxury ($200-$300)",
+      "value": "luxury",
+      "min": 20000,
+      "max": 30000
+    },
+    {
+      "label": "Premium ($300+)",
+      "value": "premium",
+      "min": 30000,
+      "max": 100000
+    }
+  ],
+  "guest_categories": [
+    "1-2",
+    "3-7",
+    "more than 7"
+  ],
+  "default_values": {
+    "default_destination": "Colombo",
+    "default_price_range": "midrange",
+    "default_hotel_type": "standard",
+    "default_guests": "1-2"
+  }
+}

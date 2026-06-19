@@ -1,0 +1,2653 @@
+{
+  "records": [
+    {
+      "hotel": "Colombo Sunrise Inn",
+      "location": "Colombo",
+      "category": "budget",
+      "price": 3951,
+      "price_range": "budget",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Colombo Blue Sky Guest",
+      "location": "Colombo",
+      "category": "budget",
+      "price": 5531,
+      "price_range": "economy",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Colombo Silver Sands",
+      "location": "Colombo",
+      "category": "standard",
+      "price": 14398,
+      "price_range": "midrange",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Colombo Silver Sands",
+      "location": "Colombo",
+      "category": "standard",
+      "price": 9253,
+      "price_range": "economy",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Colombo Royal Crown Resort",
+      "location": "Colombo",
+      "category": "luxury",
+      "price": 32588,
+      "price_range": "premium",
+      "capacity": "3-7"
+    },
+    {
+      "hotel": "Colombo Royal Crown Resort",
+      "location": "Colombo",
+      "category": "luxury",
+      "price": 29622,
+      "price_range": "luxury",
+      "capacity": "3-7"
+    },
+    {
+      "hotel": "Mount Lavinia Sunrise Inn",
+      "location": "Mount Lavinia",
+      "category": "budget",
+      "price": 6072,
+      "price_range": "economy",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Mount Lavinia Palm Stay",
+      "location": "Mount Lavinia",
+      "category": "budget",
+      "price": 6558,
+      "price_range": "economy",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Mount Lavinia Golden Park",
+      "location": "Mount Lavinia",
+      "category": "standard",
+      "price": 12621,
+      "price_range": "midrange",
+      "capacity": "3-7"
+    },
+    {
+      "hotel": "Mount Lavinia Golden Park",
+      "location": "Mount Lavinia",
+      "category": "standard",
+      "price": 9419,
+      "price_range": "economy",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Mount Lavinia Imperial Heights",
+      "location": "Mount Lavinia",
+      "category": "luxury",
+      "price": 20183,
+      "price_range": "luxury",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Mount Lavinia Royal Crown Resort",
+      "location": "Mount Lavinia",
+      "category": "luxury",
+      "price": 27143,
+      "price_range": "luxury",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Kesbewa Palm Stay",
+      "location": "Kesbewa",
+      "category": "budget",
+      "price": 5726,
+      "price_range": "economy",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Kesbewa Green Leaf Lodge",
+      "location": "Kesbewa",
+      "category": "budget",
+      "price": 4520,
+      "price_range": "budget",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Kesbewa Lake Side",
+      "location": "Kesbewa",
+      "category": "standard",
+      "price": 13849,
+      "price_range": "midrange",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Kesbewa Ocean View Hotel",
+      "location": "Kesbewa",
+      "category": "standard",
+      "price": 14643,
+      "price_range": "midrange",
+      "capacity": "3-7"
+    },
+    {
+      "hotel": "Kesbewa Pearl Haven",
+      "location": "Kesbewa",
+      "category": "luxury",
+      "price": 26321,
+      "price_range": "luxury",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Kesbewa Emerald Palace",
+      "location": "Kesbewa",
+      "category": "luxury",
+      "price": 25779,
+      "price_range": "luxury",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Maharagama City Rest",
+      "location": "Maharagama",
+      "category": "budget",
+      "price": 6662,
+      "price_range": "economy",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Maharagama Sunrise Inn",
+      "location": "Maharagama",
+      "category": "budget",
+      "price": 5209,
+      "price_range": "economy",
+      "capacity": "3-7"
+    },
+    {
+      "hotel": "Maharagama Golden Park",
+      "location": "Maharagama",
+      "category": "standard",
+      "price": 11283,
+      "price_range": "midrange",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Maharagama Golden Park",
+      "location": "Maharagama",
+      "category": "standard",
+      "price": 13890,
+      "price_range": "midrange",
+      "capacity": "3-7"
+    },
+    {
+      "hotel": "Maharagama Royal Crown Resort",
+      "location": "Maharagama",
+      "category": "luxury",
+      "price": 25615,
+      "price_range": "luxury",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Maharagama Emerald Palace",
+      "location": "Maharagama",
+      "category": "luxury",
+      "price": 30016,
+      "price_range": "premium",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Moratuwa Palm Stay",
+      "location": "Moratuwa",
+      "category": "budget",
+      "price": 4118,
+      "price_range": "budget",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Moratuwa Palm Stay",
+      "location": "Moratuwa",
+      "category": "budget",
+      "price": 3151,
+      "price_range": "budget",
+      "capacity": "3-7"
+    },
+    {
+      "hotel": "Moratuwa Ocean View Hotel",
+      "location": "Moratuwa",
+      "category": "standard",
+      "price": 9639,
+      "price_range": "economy",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Moratuwa Hill Crest Hotel",
+      "location": "Moratuwa",
+      "category": "standard",
+      "price": 14869,
+      "price_range": "midrange",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Moratuwa Emerald Palace",
+      "location": "Moratuwa",
+      "category": "luxury",
+      "price": 30157,
+      "price_range": "premium",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Moratuwa Pearl Haven",
+      "location": "Moratuwa",
+      "category": "luxury",
+      "price": 24153,
+      "price_range": "luxury",
+      "capacity": "3-7"
+    },
+    {
+      "hotel": "Ratnapura Sunrise Inn",
+      "location": "Ratnapura",
+      "category": "budget",
+      "price": 5502,
+      "price_range": "economy",
+      "capacity": "3-7"
+    },
+    {
+      "hotel": "Ratnapura Palm Stay",
+      "location": "Ratnapura",
+      "category": "budget",
+      "price": 4512,
+      "price_range": "budget",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Ratnapura Hill Crest Hotel",
+      "location": "Ratnapura",
+      "category": "standard",
+      "price": 12171,
+      "price_range": "midrange",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Ratnapura Lake Side",
+      "location": "Ratnapura",
+      "category": "standard",
+      "price": 12279,
+      "price_range": "midrange",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Ratnapura Azure Grand",
+      "location": "Ratnapura",
+      "category": "luxury",
+      "price": 32096,
+      "price_range": "premium",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Ratnapura Imperial Heights",
+      "location": "Ratnapura",
+      "category": "luxury",
+      "price": 34432,
+      "price_range": "premium",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Negombo City Rest",
+      "location": "Negombo",
+      "category": "budget",
+      "price": 4165,
+      "price_range": "budget",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Negombo Green Leaf Lodge",
+      "location": "Negombo",
+      "category": "budget",
+      "price": 3817,
+      "price_range": "budget",
+      "capacity": "3-7"
+    },
+    {
+      "hotel": "Negombo Hill Crest Hotel",
+      "location": "Negombo",
+      "category": "standard",
+      "price": 12080,
+      "price_range": "midrange",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Negombo Lake Side",
+      "location": "Negombo",
+      "category": "standard",
+      "price": 11401,
+      "price_range": "midrange",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Negombo Pearl Haven",
+      "location": "Negombo",
+      "category": "luxury",
+      "price": 30730,
+      "price_range": "premium",
+      "capacity": "3-7"
+    },
+    {
+      "hotel": "Negombo Pearl Haven",
+      "location": "Negombo",
+      "category": "luxury",
+      "price": 20765,
+      "price_range": "luxury",
+      "capacity": "3-7"
+    },
+    {
+      "hotel": "Kandy Blue Sky Guest",
+      "location": "Kandy",
+      "category": "budget",
+      "price": 6377,
+      "price_range": "economy",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Kandy Blue Sky Guest",
+      "location": "Kandy",
+      "category": "budget",
+      "price": 5366,
+      "price_range": "economy",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Kandy Hill Crest Hotel",
+      "location": "Kandy",
+      "category": "standard",
+      "price": 8487,
+      "price_range": "economy",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Kandy Silver Sands",
+      "location": "Kandy",
+      "category": "standard",
+      "price": 8296,
+      "price_range": "economy",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Kandy Emerald Palace",
+      "location": "Kandy",
+      "category": "luxury",
+      "price": 28045,
+      "price_range": "luxury",
+      "capacity": "3-7"
+    },
+    {
+      "hotel": "Kandy Royal Crown Resort",
+      "location": "Kandy",
+      "category": "luxury",
+      "price": 25542,
+      "price_range": "luxury",
+      "capacity": "3-7"
+    },
+    {
+      "hotel": "Sri Jayewardenepura Kotte Sunrise Inn",
+      "location": "Sri Jayewardenepura Kotte",
+      "category": "budget",
+      "price": 5985,
+      "price_range": "economy",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Sri Jayewardenepura Kotte City Rest",
+      "location": "Sri Jayewardenepura Kotte",
+      "category": "budget",
+      "price": 5031,
+      "price_range": "economy",
+      "capacity": "3-7"
+    },
+    {
+      "hotel": "Sri Jayewardenepura Kotte Lake Side",
+      "location": "Sri Jayewardenepura Kotte",
+      "category": "standard",
+      "price": 10496,
+      "price_range": "midrange",
+      "capacity": "3-7"
+    },
+    {
+      "hotel": "Sri Jayewardenepura Kotte Hill Crest Hotel",
+      "location": "Sri Jayewardenepura Kotte",
+      "category": "standard",
+      "price": 9188,
+      "price_range": "economy",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Sri Jayewardenepura Kotte Imperial Heights",
+      "location": "Sri Jayewardenepura Kotte",
+      "category": "luxury",
+      "price": 27458,
+      "price_range": "luxury",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Sri Jayewardenepura Kotte Azure Grand",
+      "location": "Sri Jayewardenepura Kotte",
+      "category": "luxury",
+      "price": 22765,
+      "price_range": "luxury",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Kalmunai Palm Stay",
+      "location": "Kalmunai",
+      "category": "budget",
+      "price": 3758,
+      "price_range": "budget",
+      "capacity": "3-7"
+    },
+    {
+      "hotel": "Kalmunai City Rest",
+      "location": "Kalmunai",
+      "category": "budget",
+      "price": 6547,
+      "price_range": "economy",
+      "capacity": "3-7"
+    },
+    {
+      "hotel": "Kalmunai Golden Park",
+      "location": "Kalmunai",
+      "category": "standard",
+      "price": 12944,
+      "price_range": "midrange",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Kalmunai Silver Sands",
+      "location": "Kalmunai",
+      "category": "standard",
+      "price": 8004,
+      "price_range": "economy",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Kalmunai Azure Grand",
+      "location": "Kalmunai",
+      "category": "luxury",
+      "price": 27406,
+      "price_range": "luxury",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Kalmunai Azure Grand",
+      "location": "Kalmunai",
+      "category": "luxury",
+      "price": 22704,
+      "price_range": "luxury",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Trincomalee Green Leaf Lodge",
+      "location": "Trincomalee",
+      "category": "budget",
+      "price": 6807,
+      "price_range": "economy",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Trincomalee Palm Stay",
+      "location": "Trincomalee",
+      "category": "budget",
+      "price": 6977,
+      "price_range": "economy",
+      "capacity": "3-7"
+    },
+    {
+      "hotel": "Trincomalee Hill Crest Hotel",
+      "location": "Trincomalee",
+      "category": "standard",
+      "price": 11953,
+      "price_range": "midrange",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Trincomalee Hill Crest Hotel",
+      "location": "Trincomalee",
+      "category": "standard",
+      "price": 8729,
+      "price_range": "economy",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Trincomalee Imperial Heights",
+      "location": "Trincomalee",
+      "category": "luxury",
+      "price": 19535,
+      "price_range": "midrange",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Trincomalee Azure Grand",
+      "location": "Trincomalee",
+      "category": "luxury",
+      "price": 22785,
+      "price_range": "luxury",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Galle Blue Sky Guest",
+      "location": "Galle",
+      "category": "budget",
+      "price": 3252,
+      "price_range": "budget",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Galle City Rest",
+      "location": "Galle",
+      "category": "budget",
+      "price": 4498,
+      "price_range": "budget",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Galle Golden Park",
+      "location": "Galle",
+      "category": "standard",
+      "price": 9814,
+      "price_range": "economy",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Galle Lake Side",
+      "location": "Galle",
+      "category": "standard",
+      "price": 8266,
+      "price_range": "economy",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Galle Azure Grand",
+      "location": "Galle",
+      "category": "luxury",
+      "price": 18133,
+      "price_range": "midrange",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Galle Azure Grand",
+      "location": "Galle",
+      "category": "luxury",
+      "price": 31321,
+      "price_range": "premium",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Jaffna Palm Stay",
+      "location": "Jaffna",
+      "category": "budget",
+      "price": 6199,
+      "price_range": "economy",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Jaffna Blue Sky Guest",
+      "location": "Jaffna",
+      "category": "budget",
+      "price": 6268,
+      "price_range": "economy",
+      "capacity": "3-7"
+    },
+    {
+      "hotel": "Jaffna Lake Side",
+      "location": "Jaffna",
+      "category": "standard",
+      "price": 9254,
+      "price_range": "economy",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Jaffna Golden Park",
+      "location": "Jaffna",
+      "category": "standard",
+      "price": 9056,
+      "price_range": "economy",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Jaffna Azure Grand",
+      "location": "Jaffna",
+      "category": "luxury",
+      "price": 32658,
+      "price_range": "premium",
+      "capacity": "3-7"
+    },
+    {
+      "hotel": "Jaffna Pearl Haven",
+      "location": "Jaffna",
+      "category": "luxury",
+      "price": 30982,
+      "price_range": "premium",
+      "capacity": "3-7"
+    },
+    {
+      "hotel": "Athurugiriya Green Leaf Lodge",
+      "location": "Athurugiriya",
+      "category": "budget",
+      "price": 4532,
+      "price_range": "budget",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Athurugiriya Green Leaf Lodge",
+      "location": "Athurugiriya",
+      "category": "budget",
+      "price": 5282,
+      "price_range": "economy",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Athurugiriya Golden Park",
+      "location": "Athurugiriya",
+      "category": "standard",
+      "price": 8736,
+      "price_range": "economy",
+      "capacity": "3-7"
+    },
+    {
+      "hotel": "Athurugiriya Golden Park",
+      "location": "Athurugiriya",
+      "category": "standard",
+      "price": 13350,
+      "price_range": "midrange",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Athurugiriya Royal Crown Resort",
+      "location": "Athurugiriya",
+      "category": "luxury",
+      "price": 29631,
+      "price_range": "luxury",
+      "capacity": "3-7"
+    },
+    {
+      "hotel": "Athurugiriya Azure Grand",
+      "location": "Athurugiriya",
+      "category": "luxury",
+      "price": 27050,
+      "price_range": "luxury",
+      "capacity": "3-7"
+    },
+    {
+      "hotel": "Weligama Sunrise Inn",
+      "location": "Weligama",
+      "category": "budget",
+      "price": 3722,
+      "price_range": "budget",
+      "capacity": "3-7"
+    },
+    {
+      "hotel": "Weligama Palm Stay",
+      "location": "Weligama",
+      "category": "budget",
+      "price": 3204,
+      "price_range": "budget",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Weligama Ocean View Hotel",
+      "location": "Weligama",
+      "category": "standard",
+      "price": 13963,
+      "price_range": "midrange",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Weligama Golden Park",
+      "location": "Weligama",
+      "category": "standard",
+      "price": 10693,
+      "price_range": "midrange",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Weligama Royal Crown Resort",
+      "location": "Weligama",
+      "category": "luxury",
+      "price": 18415,
+      "price_range": "midrange",
+      "capacity": "3-7"
+    },
+    {
+      "hotel": "Weligama Pearl Haven",
+      "location": "Weligama",
+      "category": "luxury",
+      "price": 19895,
+      "price_range": "midrange",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Matara City Rest",
+      "location": "Matara",
+      "category": "budget",
+      "price": 6995,
+      "price_range": "economy",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Matara City Rest",
+      "location": "Matara",
+      "category": "budget",
+      "price": 3189,
+      "price_range": "budget",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Matara Silver Sands",
+      "location": "Matara",
+      "category": "standard",
+      "price": 8795,
+      "price_range": "economy",
+      "capacity": "3-7"
+    },
+    {
+      "hotel": "Matara Lake Side",
+      "location": "Matara",
+      "category": "standard",
+      "price": 8630,
+      "price_range": "economy",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Matara Imperial Heights",
+      "location": "Matara",
+      "category": "luxury",
+      "price": 26769,
+      "price_range": "luxury",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Matara Royal Crown Resort",
+      "location": "Matara",
+      "category": "luxury",
+      "price": 34559,
+      "price_range": "premium",
+      "capacity": "3-7"
+    },
+    {
+      "hotel": "Kolonnawa Blue Sky Guest",
+      "location": "Kolonnawa",
+      "category": "budget",
+      "price": 5587,
+      "price_range": "economy",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Kolonnawa Green Leaf Lodge",
+      "location": "Kolonnawa",
+      "category": "budget",
+      "price": 6550,
+      "price_range": "economy",
+      "capacity": "3-7"
+    },
+    {
+      "hotel": "Kolonnawa Hill Crest Hotel",
+      "location": "Kolonnawa",
+      "category": "standard",
+      "price": 10677,
+      "price_range": "midrange",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Kolonnawa Lake Side",
+      "location": "Kolonnawa",
+      "category": "standard",
+      "price": 10136,
+      "price_range": "midrange",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Kolonnawa Emerald Palace",
+      "location": "Kolonnawa",
+      "category": "luxury",
+      "price": 30195,
+      "price_range": "premium",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Kolonnawa Emerald Palace",
+      "location": "Kolonnawa",
+      "category": "luxury",
+      "price": 25462,
+      "price_range": "luxury",
+      "capacity": "3-7"
+    },
+    {
+      "hotel": "Gampaha Sunrise Inn",
+      "location": "Gampaha",
+      "category": "budget",
+      "price": 5897,
+      "price_range": "economy",
+      "capacity": "3-7"
+    },
+    {
+      "hotel": "Gampaha City Rest",
+      "location": "Gampaha",
+      "category": "budget",
+      "price": 4166,
+      "price_range": "budget",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Gampaha Hill Crest Hotel",
+      "location": "Gampaha",
+      "category": "standard",
+      "price": 13032,
+      "price_range": "midrange",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Gampaha Silver Sands",
+      "location": "Gampaha",
+      "category": "standard",
+      "price": 14947,
+      "price_range": "midrange",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Gampaha Royal Crown Resort",
+      "location": "Gampaha",
+      "category": "luxury",
+      "price": 22041,
+      "price_range": "luxury",
+      "capacity": "3-7"
+    },
+    {
+      "hotel": "Gampaha Azure Grand",
+      "location": "Gampaha",
+      "category": "luxury",
+      "price": 20645,
+      "price_range": "luxury",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Puttalam Sunrise Inn",
+      "location": "Puttalam",
+      "category": "budget",
+      "price": 6738,
+      "price_range": "economy",
+      "capacity": "3-7"
+    },
+    {
+      "hotel": "Puttalam Blue Sky Guest",
+      "location": "Puttalam",
+      "category": "budget",
+      "price": 3255,
+      "price_range": "budget",
+      "capacity": "3-7"
+    },
+    {
+      "hotel": "Puttalam Silver Sands",
+      "location": "Puttalam",
+      "category": "standard",
+      "price": 14914,
+      "price_range": "midrange",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Puttalam Hill Crest Hotel",
+      "location": "Puttalam",
+      "category": "standard",
+      "price": 9793,
+      "price_range": "economy",
+      "capacity": "3-7"
+    },
+    {
+      "hotel": "Puttalam Azure Grand",
+      "location": "Puttalam",
+      "category": "luxury",
+      "price": 28130,
+      "price_range": "luxury",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Puttalam Royal Crown Resort",
+      "location": "Puttalam",
+      "category": "luxury",
+      "price": 25506,
+      "price_range": "luxury",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Badulla City Rest",
+      "location": "Badulla",
+      "category": "budget",
+      "price": 5974,
+      "price_range": "economy",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Badulla Sunrise Inn",
+      "location": "Badulla",
+      "category": "budget",
+      "price": 5811,
+      "price_range": "economy",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Badulla Ocean View Hotel",
+      "location": "Badulla",
+      "category": "standard",
+      "price": 12715,
+      "price_range": "midrange",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Badulla Silver Sands",
+      "location": "Badulla",
+      "category": "standard",
+      "price": 8369,
+      "price_range": "economy",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Badulla Imperial Heights",
+      "location": "Badulla",
+      "category": "luxury",
+      "price": 18326,
+      "price_range": "midrange",
+      "capacity": "3-7"
+    },
+    {
+      "hotel": "Badulla Emerald Palace",
+      "location": "Badulla",
+      "category": "luxury",
+      "price": 29760,
+      "price_range": "luxury",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Kalutara Blue Sky Guest",
+      "location": "Kalutara",
+      "category": "budget",
+      "price": 5486,
+      "price_range": "economy",
+      "capacity": "3-7"
+    },
+    {
+      "hotel": "Kalutara Palm Stay",
+      "location": "Kalutara",
+      "category": "budget",
+      "price": 5206,
+      "price_range": "economy",
+      "capacity": "3-7"
+    },
+    {
+      "hotel": "Kalutara Silver Sands",
+      "location": "Kalutara",
+      "category": "standard",
+      "price": 9980,
+      "price_range": "economy",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Kalutara Hill Crest Hotel",
+      "location": "Kalutara",
+      "category": "standard",
+      "price": 8815,
+      "price_range": "economy",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Kalutara Imperial Heights",
+      "location": "Kalutara",
+      "category": "luxury",
+      "price": 21971,
+      "price_range": "luxury",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Kalutara Imperial Heights",
+      "location": "Kalutara",
+      "category": "luxury",
+      "price": 31062,
+      "price_range": "premium",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Bentota Green Leaf Lodge",
+      "location": "Bentota",
+      "category": "budget",
+      "price": 5325,
+      "price_range": "economy",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Bentota Sunrise Inn",
+      "location": "Bentota",
+      "category": "budget",
+      "price": 3289,
+      "price_range": "budget",
+      "capacity": "3-7"
+    },
+    {
+      "hotel": "Bentota Silver Sands",
+      "location": "Bentota",
+      "category": "standard",
+      "price": 9454,
+      "price_range": "economy",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Bentota Hill Crest Hotel",
+      "location": "Bentota",
+      "category": "standard",
+      "price": 8460,
+      "price_range": "economy",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Bentota Pearl Haven",
+      "location": "Bentota",
+      "category": "luxury",
+      "price": 29097,
+      "price_range": "luxury",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Bentota Emerald Palace",
+      "location": "Bentota",
+      "category": "luxury",
+      "price": 31573,
+      "price_range": "premium",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Mannar Blue Sky Guest",
+      "location": "Mannar",
+      "category": "budget",
+      "price": 6912,
+      "price_range": "economy",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Mannar Blue Sky Guest",
+      "location": "Mannar",
+      "category": "budget",
+      "price": 3272,
+      "price_range": "budget",
+      "capacity": "3-7"
+    },
+    {
+      "hotel": "Mannar Lake Side",
+      "location": "Mannar",
+      "category": "standard",
+      "price": 13971,
+      "price_range": "midrange",
+      "capacity": "3-7"
+    },
+    {
+      "hotel": "Mannar Hill Crest Hotel",
+      "location": "Mannar",
+      "category": "standard",
+      "price": 9133,
+      "price_range": "economy",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Mannar Pearl Haven",
+      "location": "Mannar",
+      "category": "luxury",
+      "price": 22193,
+      "price_range": "luxury",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Mannar Emerald Palace",
+      "location": "Mannar",
+      "category": "luxury",
+      "price": 20387,
+      "price_range": "luxury",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Kurunegala Blue Sky Guest",
+      "location": "Kurunegala",
+      "category": "budget",
+      "price": 3552,
+      "price_range": "budget",
+      "capacity": "3-7"
+    },
+    {
+      "hotel": "Kurunegala City Rest",
+      "location": "Kurunegala",
+      "category": "budget",
+      "price": 3362,
+      "price_range": "budget",
+      "capacity": "3-7"
+    },
+    {
+      "hotel": "Kurunegala Lake Side",
+      "location": "Kurunegala",
+      "category": "standard",
+      "price": 8480,
+      "price_range": "economy",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Kurunegala Ocean View Hotel",
+      "location": "Kurunegala",
+      "category": "standard",
+      "price": 12905,
+      "price_range": "midrange",
+      "capacity": "3-7"
+    },
+    {
+      "hotel": "Kurunegala Azure Grand",
+      "location": "Kurunegala",
+      "category": "luxury",
+      "price": 20243,
+      "price_range": "luxury",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Kurunegala Emerald Palace",
+      "location": "Kurunegala",
+      "category": "luxury",
+      "price": 32561,
+      "price_range": "premium",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Hambantota Palm Stay",
+      "location": "Hambantota",
+      "category": "budget",
+      "price": 5004,
+      "price_range": "economy",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Hambantota Palm Stay",
+      "location": "Hambantota",
+      "category": "budget",
+      "price": 4826,
+      "price_range": "budget",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Hambantota Ocean View Hotel",
+      "location": "Hambantota",
+      "category": "standard",
+      "price": 13157,
+      "price_range": "midrange",
+      "capacity": "3-7"
+    },
+    {
+      "hotel": "Hambantota Hill Crest Hotel",
+      "location": "Hambantota",
+      "category": "standard",
+      "price": 13411,
+      "price_range": "midrange",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Hambantota Imperial Heights",
+      "location": "Hambantota",
+      "category": "luxury",
+      "price": 19853,
+      "price_range": "midrange",
+      "capacity": "3-7"
+    },
+    {
+      "hotel": "Hambantota Azure Grand",
+      "location": "Hambantota",
+      "category": "luxury",
+      "price": 21207,
+      "price_range": "luxury",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Sigiriya City Rest",
+      "location": "Sigiriya",
+      "category": "budget",
+      "price": 5404,
+      "price_range": "economy",
+      "capacity": "3-7"
+    },
+    {
+      "hotel": "Sigiriya Palm Stay",
+      "location": "Sigiriya",
+      "category": "budget",
+      "price": 6377,
+      "price_range": "economy",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Sigiriya Lake Side",
+      "location": "Sigiriya",
+      "category": "standard",
+      "price": 13831,
+      "price_range": "midrange",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Sigiriya Golden Park",
+      "location": "Sigiriya",
+      "category": "standard",
+      "price": 12454,
+      "price_range": "midrange",
+      "capacity": "3-7"
+    },
+    {
+      "hotel": "Sigiriya Azure Grand",
+      "location": "Sigiriya",
+      "category": "luxury",
+      "price": 30166,
+      "price_range": "premium",
+      "capacity": "3-7"
+    },
+    {
+      "hotel": "Sigiriya Pearl Haven",
+      "location": "Sigiriya",
+      "category": "luxury",
+      "price": 23956,
+      "price_range": "luxury",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Habarana Sunrise Inn",
+      "location": "Habarana",
+      "category": "budget",
+      "price": 5357,
+      "price_range": "economy",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Habarana Blue Sky Guest",
+      "location": "Habarana",
+      "category": "budget",
+      "price": 5781,
+      "price_range": "economy",
+      "capacity": "3-7"
+    },
+    {
+      "hotel": "Habarana Silver Sands",
+      "location": "Habarana",
+      "category": "standard",
+      "price": 12064,
+      "price_range": "midrange",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Habarana Lake Side",
+      "location": "Habarana",
+      "category": "standard",
+      "price": 14741,
+      "price_range": "midrange",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Habarana Imperial Heights",
+      "location": "Habarana",
+      "category": "luxury",
+      "price": 18370,
+      "price_range": "midrange",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Habarana Imperial Heights",
+      "location": "Habarana",
+      "category": "luxury",
+      "price": 33858,
+      "price_range": "premium",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Unawatuna Green Leaf Lodge",
+      "location": "Unawatuna",
+      "category": "budget",
+      "price": 4447,
+      "price_range": "budget",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Unawatuna Sunrise Inn",
+      "location": "Unawatuna",
+      "category": "budget",
+      "price": 6219,
+      "price_range": "economy",
+      "capacity": "3-7"
+    },
+    {
+      "hotel": "Unawatuna Lake Side",
+      "location": "Unawatuna",
+      "category": "standard",
+      "price": 12981,
+      "price_range": "midrange",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Unawatuna Hill Crest Hotel",
+      "location": "Unawatuna",
+      "category": "standard",
+      "price": 8345,
+      "price_range": "economy",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Unawatuna Azure Grand",
+      "location": "Unawatuna",
+      "category": "luxury",
+      "price": 29508,
+      "price_range": "luxury",
+      "capacity": "3-7"
+    },
+    {
+      "hotel": "Unawatuna Royal Crown Resort",
+      "location": "Unawatuna",
+      "category": "luxury",
+      "price": 34522,
+      "price_range": "premium",
+      "capacity": "3-7"
+    },
+    {
+      "hotel": "Hikkaduwa Green Leaf Lodge",
+      "location": "Hikkaduwa",
+      "category": "budget",
+      "price": 4067,
+      "price_range": "budget",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Hikkaduwa Sunrise Inn",
+      "location": "Hikkaduwa",
+      "category": "budget",
+      "price": 5764,
+      "price_range": "economy",
+      "capacity": "3-7"
+    },
+    {
+      "hotel": "Hikkaduwa Hill Crest Hotel",
+      "location": "Hikkaduwa",
+      "category": "standard",
+      "price": 10351,
+      "price_range": "midrange",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Hikkaduwa Hill Crest Hotel",
+      "location": "Hikkaduwa",
+      "category": "standard",
+      "price": 12909,
+      "price_range": "midrange",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Hikkaduwa Royal Crown Resort",
+      "location": "Hikkaduwa",
+      "category": "luxury",
+      "price": 28765,
+      "price_range": "luxury",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Hikkaduwa Royal Crown Resort",
+      "location": "Hikkaduwa",
+      "category": "luxury",
+      "price": 25161,
+      "price_range": "luxury",
+      "capacity": "3-7"
+    },
+    {
+      "hotel": "Udawalawe National Park Sunrise Inn",
+      "location": "Udawalawe National Park",
+      "category": "budget",
+      "price": 6974,
+      "price_range": "economy",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Udawalawe National Park Green Leaf Lodge",
+      "location": "Udawalawe National Park",
+      "category": "budget",
+      "price": 3900,
+      "price_range": "budget",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Udawalawe National Park Ocean View Hotel",
+      "location": "Udawalawe National Park",
+      "category": "standard",
+      "price": 13960,
+      "price_range": "midrange",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Udawalawe National Park Ocean View Hotel",
+      "location": "Udawalawe National Park",
+      "category": "standard",
+      "price": 14041,
+      "price_range": "midrange",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Udawalawe National Park Azure Grand",
+      "location": "Udawalawe National Park",
+      "category": "luxury",
+      "price": 21380,
+      "price_range": "luxury",
+      "capacity": "3-7"
+    },
+    {
+      "hotel": "Udawalawe National Park Pearl Haven",
+      "location": "Udawalawe National Park",
+      "category": "luxury",
+      "price": 33070,
+      "price_range": "premium",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Minneriya National Park City Rest",
+      "location": "Minneriya National Park",
+      "category": "budget",
+      "price": 4305,
+      "price_range": "budget",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Minneriya National Park Sunrise Inn",
+      "location": "Minneriya National Park",
+      "category": "budget",
+      "price": 6558,
+      "price_range": "economy",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Minneriya National Park Lake Side",
+      "location": "Minneriya National Park",
+      "category": "standard",
+      "price": 14924,
+      "price_range": "midrange",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Minneriya National Park Hill Crest Hotel",
+      "location": "Minneriya National Park",
+      "category": "standard",
+      "price": 11065,
+      "price_range": "midrange",
+      "capacity": "3-7"
+    },
+    {
+      "hotel": "Minneriya National Park Royal Crown Resort",
+      "location": "Minneriya National Park",
+      "category": "luxury",
+      "price": 34832,
+      "price_range": "premium",
+      "capacity": "3-7"
+    },
+    {
+      "hotel": "Minneriya National Park Azure Grand",
+      "location": "Minneriya National Park",
+      "category": "luxury",
+      "price": 31705,
+      "price_range": "premium",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Wilpattu National Park Green Leaf Lodge",
+      "location": "Wilpattu National Park",
+      "category": "budget",
+      "price": 4815,
+      "price_range": "budget",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Wilpattu National Park Blue Sky Guest",
+      "location": "Wilpattu National Park",
+      "category": "budget",
+      "price": 6091,
+      "price_range": "economy",
+      "capacity": "3-7"
+    },
+    {
+      "hotel": "Wilpattu National Park Hill Crest Hotel",
+      "location": "Wilpattu National Park",
+      "category": "standard",
+      "price": 12241,
+      "price_range": "midrange",
+      "capacity": "3-7"
+    },
+    {
+      "hotel": "Wilpattu National Park Ocean View Hotel",
+      "location": "Wilpattu National Park",
+      "category": "standard",
+      "price": 14950,
+      "price_range": "midrange",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Wilpattu National Park Imperial Heights",
+      "location": "Wilpattu National Park",
+      "category": "luxury",
+      "price": 24403,
+      "price_range": "luxury",
+      "capacity": "3-7"
+    },
+    {
+      "hotel": "Wilpattu National Park Pearl Haven",
+      "location": "Wilpattu National Park",
+      "category": "luxury",
+      "price": 25327,
+      "price_range": "luxury",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Horton Plains Green Leaf Lodge",
+      "location": "Horton Plains",
+      "category": "budget",
+      "price": 3676,
+      "price_range": "budget",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Horton Plains Palm Stay",
+      "location": "Horton Plains",
+      "category": "budget",
+      "price": 5477,
+      "price_range": "economy",
+      "capacity": "3-7"
+    },
+    {
+      "hotel": "Horton Plains Hill Crest Hotel",
+      "location": "Horton Plains",
+      "category": "standard",
+      "price": 8158,
+      "price_range": "economy",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Horton Plains Ocean View Hotel",
+      "location": "Horton Plains",
+      "category": "standard",
+      "price": 14814,
+      "price_range": "midrange",
+      "capacity": "3-7"
+    },
+    {
+      "hotel": "Horton Plains Imperial Heights",
+      "location": "Horton Plains",
+      "category": "luxury",
+      "price": 22565,
+      "price_range": "luxury",
+      "capacity": "3-7"
+    },
+    {
+      "hotel": "Horton Plains Imperial Heights",
+      "location": "Horton Plains",
+      "category": "luxury",
+      "price": 18940,
+      "price_range": "midrange",
+      "capacity": "3-7"
+    },
+    {
+      "hotel": "Ella Blue Sky Guest",
+      "location": "Ella",
+      "category": "budget",
+      "price": 4305,
+      "price_range": "budget",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Ella City Rest",
+      "location": "Ella",
+      "category": "budget",
+      "price": 4705,
+      "price_range": "budget",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Ella Hill Crest Hotel",
+      "location": "Ella",
+      "category": "standard",
+      "price": 12075,
+      "price_range": "midrange",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Ella Lake Side",
+      "location": "Ella",
+      "category": "standard",
+      "price": 9026,
+      "price_range": "economy",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Ella Imperial Heights",
+      "location": "Ella",
+      "category": "luxury",
+      "price": 32678,
+      "price_range": "premium",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Ella Emerald Palace",
+      "location": "Ella",
+      "category": "luxury",
+      "price": 31278,
+      "price_range": "premium",
+      "capacity": "3-7"
+    },
+    {
+      "hotel": "Little Adam’s Peak Palm Stay",
+      "location": "Little Adam’s Peak",
+      "category": "budget",
+      "price": 3051,
+      "price_range": "budget",
+      "capacity": "3-7"
+    },
+    {
+      "hotel": "Little Adam’s Peak Sunrise Inn",
+      "location": "Little Adam’s Peak",
+      "category": "budget",
+      "price": 5734,
+      "price_range": "economy",
+      "capacity": "3-7"
+    },
+    {
+      "hotel": "Little Adam’s Peak Golden Park",
+      "location": "Little Adam’s Peak",
+      "category": "standard",
+      "price": 12744,
+      "price_range": "midrange",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Little Adam’s Peak Hill Crest Hotel",
+      "location": "Little Adam’s Peak",
+      "category": "standard",
+      "price": 13247,
+      "price_range": "midrange",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Little Adam’s Peak Royal Crown Resort",
+      "location": "Little Adam’s Peak",
+      "category": "luxury",
+      "price": 23039,
+      "price_range": "luxury",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Little Adam’s Peak Imperial Heights",
+      "location": "Little Adam’s Peak",
+      "category": "luxury",
+      "price": 19451,
+      "price_range": "midrange",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Nine Arch Bridge Sunrise Inn",
+      "location": "Nine Arch Bridge",
+      "category": "budget",
+      "price": 5852,
+      "price_range": "economy",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Nine Arch Bridge Green Leaf Lodge",
+      "location": "Nine Arch Bridge",
+      "category": "budget",
+      "price": 6820,
+      "price_range": "economy",
+      "capacity": "3-7"
+    },
+    {
+      "hotel": "Nine Arch Bridge Silver Sands",
+      "location": "Nine Arch Bridge",
+      "category": "standard",
+      "price": 12585,
+      "price_range": "midrange",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Nine Arch Bridge Hill Crest Hotel",
+      "location": "Nine Arch Bridge",
+      "category": "standard",
+      "price": 8474,
+      "price_range": "economy",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Nine Arch Bridge Azure Grand",
+      "location": "Nine Arch Bridge",
+      "category": "luxury",
+      "price": 23868,
+      "price_range": "luxury",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Nine Arch Bridge Emerald Palace",
+      "location": "Nine Arch Bridge",
+      "category": "luxury",
+      "price": 24561,
+      "price_range": "luxury",
+      "capacity": "3-7"
+    },
+    {
+      "hotel": "Ravana Falls City Rest",
+      "location": "Ravana Falls",
+      "category": "budget",
+      "price": 5571,
+      "price_range": "economy",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Ravana Falls Blue Sky Guest",
+      "location": "Ravana Falls",
+      "category": "budget",
+      "price": 3735,
+      "price_range": "budget",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Ravana Falls Golden Park",
+      "location": "Ravana Falls",
+      "category": "standard",
+      "price": 9188,
+      "price_range": "economy",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Ravana Falls Silver Sands",
+      "location": "Ravana Falls",
+      "category": "standard",
+      "price": 13208,
+      "price_range": "midrange",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Ravana Falls Pearl Haven",
+      "location": "Ravana Falls",
+      "category": "luxury",
+      "price": 24975,
+      "price_range": "luxury",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Ravana Falls Emerald Palace",
+      "location": "Ravana Falls",
+      "category": "luxury",
+      "price": 33951,
+      "price_range": "premium",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Nuwara Eliya Green Leaf Lodge",
+      "location": "Nuwara Eliya",
+      "category": "budget",
+      "price": 4930,
+      "price_range": "budget",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Nuwara Eliya Sunrise Inn",
+      "location": "Nuwara Eliya",
+      "category": "budget",
+      "price": 5210,
+      "price_range": "economy",
+      "capacity": "3-7"
+    },
+    {
+      "hotel": "Nuwara Eliya Lake Side",
+      "location": "Nuwara Eliya",
+      "category": "standard",
+      "price": 9307,
+      "price_range": "economy",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Nuwara Eliya Hill Crest Hotel",
+      "location": "Nuwara Eliya",
+      "category": "standard",
+      "price": 9242,
+      "price_range": "economy",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Nuwara Eliya Azure Grand",
+      "location": "Nuwara Eliya",
+      "category": "luxury",
+      "price": 27209,
+      "price_range": "luxury",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Nuwara Eliya Azure Grand",
+      "location": "Nuwara Eliya",
+      "category": "luxury",
+      "price": 28419,
+      "price_range": "luxury",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Dambulla Cave Temple City Rest",
+      "location": "Dambulla Cave Temple",
+      "category": "budget",
+      "price": 6089,
+      "price_range": "economy",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Dambulla Cave Temple Green Leaf Lodge",
+      "location": "Dambulla Cave Temple",
+      "category": "budget",
+      "price": 3669,
+      "price_range": "budget",
+      "capacity": "3-7"
+    },
+    {
+      "hotel": "Dambulla Cave Temple Ocean View Hotel",
+      "location": "Dambulla Cave Temple",
+      "category": "standard",
+      "price": 13051,
+      "price_range": "midrange",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Dambulla Cave Temple Lake Side",
+      "location": "Dambulla Cave Temple",
+      "category": "standard",
+      "price": 12284,
+      "price_range": "midrange",
+      "capacity": "3-7"
+    },
+    {
+      "hotel": "Dambulla Cave Temple Imperial Heights",
+      "location": "Dambulla Cave Temple",
+      "category": "luxury",
+      "price": 19515,
+      "price_range": "midrange",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Dambulla Cave Temple Azure Grand",
+      "location": "Dambulla Cave Temple",
+      "category": "luxury",
+      "price": 18301,
+      "price_range": "midrange",
+      "capacity": "3-7"
+    },
+    {
+      "hotel": "Bentota City Rest",
+      "location": "Bentota",
+      "category": "budget",
+      "price": 4155,
+      "price_range": "budget",
+      "capacity": "3-7"
+    },
+    {
+      "hotel": "Bentota Blue Sky Guest",
+      "location": "Bentota",
+      "category": "budget",
+      "price": 3702,
+      "price_range": "budget",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Bentota Ocean View Hotel",
+      "location": "Bentota",
+      "category": "standard",
+      "price": 12618,
+      "price_range": "midrange",
+      "capacity": "3-7"
+    },
+    {
+      "hotel": "Bentota Lake Side",
+      "location": "Bentota",
+      "category": "standard",
+      "price": 10187,
+      "price_range": "midrange",
+      "capacity": "3-7"
+    },
+    {
+      "hotel": "Bentota Emerald Palace",
+      "location": "Bentota",
+      "category": "luxury",
+      "price": 23531,
+      "price_range": "luxury",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Bentota Emerald Palace",
+      "location": "Bentota",
+      "category": "luxury",
+      "price": 22131,
+      "price_range": "luxury",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Pasikudah Blue Sky Guest",
+      "location": "Pasikudah",
+      "category": "budget",
+      "price": 4103,
+      "price_range": "budget",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Pasikudah City Rest",
+      "location": "Pasikudah",
+      "category": "budget",
+      "price": 5446,
+      "price_range": "economy",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Pasikudah Golden Park",
+      "location": "Pasikudah",
+      "category": "standard",
+      "price": 13583,
+      "price_range": "midrange",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Pasikudah Hill Crest Hotel",
+      "location": "Pasikudah",
+      "category": "standard",
+      "price": 13472,
+      "price_range": "midrange",
+      "capacity": "3-7"
+    },
+    {
+      "hotel": "Pasikudah Azure Grand",
+      "location": "Pasikudah",
+      "category": "luxury",
+      "price": 29555,
+      "price_range": "luxury",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Pasikudah Royal Crown Resort",
+      "location": "Pasikudah",
+      "category": "luxury",
+      "price": 23032,
+      "price_range": "luxury",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Kalkudah Sunrise Inn",
+      "location": "Kalkudah",
+      "category": "budget",
+      "price": 4118,
+      "price_range": "budget",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Kalkudah Blue Sky Guest",
+      "location": "Kalkudah",
+      "category": "budget",
+      "price": 6866,
+      "price_range": "economy",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Kalkudah Hill Crest Hotel",
+      "location": "Kalkudah",
+      "category": "standard",
+      "price": 10010,
+      "price_range": "midrange",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Kalkudah Lake Side",
+      "location": "Kalkudah",
+      "category": "standard",
+      "price": 10875,
+      "price_range": "midrange",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Kalkudah Azure Grand",
+      "location": "Kalkudah",
+      "category": "luxury",
+      "price": 23428,
+      "price_range": "luxury",
+      "capacity": "3-7"
+    },
+    {
+      "hotel": "Kalkudah Royal Crown Resort",
+      "location": "Kalkudah",
+      "category": "luxury",
+      "price": 22571,
+      "price_range": "luxury",
+      "capacity": "3-7"
+    },
+    {
+      "hotel": "Mirissa Blue Sky Guest",
+      "location": "Mirissa",
+      "category": "budget",
+      "price": 4970,
+      "price_range": "budget",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Mirissa City Rest",
+      "location": "Mirissa",
+      "category": "budget",
+      "price": 3744,
+      "price_range": "budget",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Mirissa Hill Crest Hotel",
+      "location": "Mirissa",
+      "category": "standard",
+      "price": 10451,
+      "price_range": "midrange",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Mirissa Lake Side",
+      "location": "Mirissa",
+      "category": "standard",
+      "price": 10247,
+      "price_range": "midrange",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Mirissa Pearl Haven",
+      "location": "Mirissa",
+      "category": "luxury",
+      "price": 23346,
+      "price_range": "luxury",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Mirissa Azure Grand",
+      "location": "Mirissa",
+      "category": "luxury",
+      "price": 20549,
+      "price_range": "luxury",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Arugam Bay Sunrise Inn",
+      "location": "Arugam Bay",
+      "category": "budget",
+      "price": 5941,
+      "price_range": "economy",
+      "capacity": "3-7"
+    },
+    {
+      "hotel": "Arugam Bay Palm Stay",
+      "location": "Arugam Bay",
+      "category": "budget",
+      "price": 3166,
+      "price_range": "budget",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Arugam Bay Silver Sands",
+      "location": "Arugam Bay",
+      "category": "standard",
+      "price": 9175,
+      "price_range": "economy",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Arugam Bay Silver Sands",
+      "location": "Arugam Bay",
+      "category": "standard",
+      "price": 14423,
+      "price_range": "midrange",
+      "capacity": "3-7"
+    },
+    {
+      "hotel": "Arugam Bay Pearl Haven",
+      "location": "Arugam Bay",
+      "category": "luxury",
+      "price": 33873,
+      "price_range": "premium",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Arugam Bay Royal Crown Resort",
+      "location": "Arugam Bay",
+      "category": "luxury",
+      "price": 27884,
+      "price_range": "luxury",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Trincomalee Palm Stay",
+      "location": "Trincomalee",
+      "category": "budget",
+      "price": 3715,
+      "price_range": "budget",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Trincomalee Palm Stay",
+      "location": "Trincomalee",
+      "category": "budget",
+      "price": 5298,
+      "price_range": "economy",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Trincomalee Hill Crest Hotel",
+      "location": "Trincomalee",
+      "category": "standard",
+      "price": 8678,
+      "price_range": "economy",
+      "capacity": "3-7"
+    },
+    {
+      "hotel": "Trincomalee Golden Park",
+      "location": "Trincomalee",
+      "category": "standard",
+      "price": 11079,
+      "price_range": "midrange",
+      "capacity": "3-7"
+    },
+    {
+      "hotel": "Trincomalee Pearl Haven",
+      "location": "Trincomalee",
+      "category": "luxury",
+      "price": 32331,
+      "price_range": "premium",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Trincomalee Emerald Palace",
+      "location": "Trincomalee",
+      "category": "luxury",
+      "price": 29546,
+      "price_range": "luxury",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Koneswaram Temple City Rest",
+      "location": "Koneswaram Temple",
+      "category": "budget",
+      "price": 5045,
+      "price_range": "economy",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Koneswaram Temple Green Leaf Lodge",
+      "location": "Koneswaram Temple",
+      "category": "budget",
+      "price": 4379,
+      "price_range": "budget",
+      "capacity": "3-7"
+    },
+    {
+      "hotel": "Koneswaram Temple Hill Crest Hotel",
+      "location": "Koneswaram Temple",
+      "category": "standard",
+      "price": 11583,
+      "price_range": "midrange",
+      "capacity": "3-7"
+    },
+    {
+      "hotel": "Koneswaram Temple Hill Crest Hotel",
+      "location": "Koneswaram Temple",
+      "category": "standard",
+      "price": 9290,
+      "price_range": "economy",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Koneswaram Temple Imperial Heights",
+      "location": "Koneswaram Temple",
+      "category": "luxury",
+      "price": 30410,
+      "price_range": "premium",
+      "capacity": "3-7"
+    },
+    {
+      "hotel": "Koneswaram Temple Azure Grand",
+      "location": "Koneswaram Temple",
+      "category": "luxury",
+      "price": 31843,
+      "price_range": "premium",
+      "capacity": "3-7"
+    },
+    {
+      "hotel": "Pigeon Island City Rest",
+      "location": "Pigeon Island",
+      "category": "budget",
+      "price": 5281,
+      "price_range": "economy",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Pigeon Island Sunrise Inn",
+      "location": "Pigeon Island",
+      "category": "budget",
+      "price": 6370,
+      "price_range": "economy",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Pigeon Island Silver Sands",
+      "location": "Pigeon Island",
+      "category": "standard",
+      "price": 11212,
+      "price_range": "midrange",
+      "capacity": "3-7"
+    },
+    {
+      "hotel": "Pigeon Island Lake Side",
+      "location": "Pigeon Island",
+      "category": "standard",
+      "price": 10171,
+      "price_range": "midrange",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Pigeon Island Royal Crown Resort",
+      "location": "Pigeon Island",
+      "category": "luxury",
+      "price": 20468,
+      "price_range": "luxury",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Pigeon Island Imperial Heights",
+      "location": "Pigeon Island",
+      "category": "luxury",
+      "price": 18069,
+      "price_range": "midrange",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Kalpitiya Green Leaf Lodge",
+      "location": "Kalpitiya",
+      "category": "budget",
+      "price": 3573,
+      "price_range": "budget",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Kalpitiya Green Leaf Lodge",
+      "location": "Kalpitiya",
+      "category": "budget",
+      "price": 3858,
+      "price_range": "budget",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Kalpitiya Ocean View Hotel",
+      "location": "Kalpitiya",
+      "category": "standard",
+      "price": 9994,
+      "price_range": "economy",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Kalpitiya Lake Side",
+      "location": "Kalpitiya",
+      "category": "standard",
+      "price": 14894,
+      "price_range": "midrange",
+      "capacity": "3-7"
+    },
+    {
+      "hotel": "Kalpitiya Emerald Palace",
+      "location": "Kalpitiya",
+      "category": "luxury",
+      "price": 22081,
+      "price_range": "luxury",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Kalpitiya Azure Grand",
+      "location": "Kalpitiya",
+      "category": "luxury",
+      "price": 18640,
+      "price_range": "midrange",
+      "capacity": "3-7"
+    },
+    {
+      "hotel": "Mannar Island City Rest",
+      "location": "Mannar Island",
+      "category": "budget",
+      "price": 6381,
+      "price_range": "economy",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Mannar Island Blue Sky Guest",
+      "location": "Mannar Island",
+      "category": "budget",
+      "price": 6939,
+      "price_range": "economy",
+      "capacity": "3-7"
+    },
+    {
+      "hotel": "Mannar Island Silver Sands",
+      "location": "Mannar Island",
+      "category": "standard",
+      "price": 11195,
+      "price_range": "midrange",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Mannar Island Hill Crest Hotel",
+      "location": "Mannar Island",
+      "category": "standard",
+      "price": 14261,
+      "price_range": "midrange",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Mannar Island Emerald Palace",
+      "location": "Mannar Island",
+      "category": "luxury",
+      "price": 20021,
+      "price_range": "luxury",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Mannar Island Imperial Heights",
+      "location": "Mannar Island",
+      "category": "luxury",
+      "price": 32605,
+      "price_range": "premium",
+      "capacity": "3-7"
+    },
+    {
+      "hotel": "Nilaveli Blue Sky Guest",
+      "location": "Nilaveli",
+      "category": "budget",
+      "price": 4945,
+      "price_range": "budget",
+      "capacity": "3-7"
+    },
+    {
+      "hotel": "Nilaveli Sunrise Inn",
+      "location": "Nilaveli",
+      "category": "budget",
+      "price": 4072,
+      "price_range": "budget",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Nilaveli Silver Sands",
+      "location": "Nilaveli",
+      "category": "standard",
+      "price": 10732,
+      "price_range": "midrange",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Nilaveli Ocean View Hotel",
+      "location": "Nilaveli",
+      "category": "standard",
+      "price": 13799,
+      "price_range": "midrange",
+      "capacity": "3-7"
+    },
+    {
+      "hotel": "Nilaveli Royal Crown Resort",
+      "location": "Nilaveli",
+      "category": "luxury",
+      "price": 18738,
+      "price_range": "midrange",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Nilaveli Azure Grand",
+      "location": "Nilaveli",
+      "category": "luxury",
+      "price": 34229,
+      "price_range": "premium",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Batticaloa Blue Sky Guest",
+      "location": "Batticaloa",
+      "category": "budget",
+      "price": 6957,
+      "price_range": "economy",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Batticaloa Palm Stay",
+      "location": "Batticaloa",
+      "category": "budget",
+      "price": 6718,
+      "price_range": "economy",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Batticaloa Golden Park",
+      "location": "Batticaloa",
+      "category": "standard",
+      "price": 9149,
+      "price_range": "economy",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Batticaloa Hill Crest Hotel",
+      "location": "Batticaloa",
+      "category": "standard",
+      "price": 10834,
+      "price_range": "midrange",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Batticaloa Pearl Haven",
+      "location": "Batticaloa",
+      "category": "luxury",
+      "price": 26403,
+      "price_range": "luxury",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Batticaloa Pearl Haven",
+      "location": "Batticaloa",
+      "category": "luxury",
+      "price": 19260,
+      "price_range": "midrange",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Knuckles Range City Rest",
+      "location": "Knuckles Range",
+      "category": "budget",
+      "price": 5113,
+      "price_range": "economy",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Knuckles Range Blue Sky Guest",
+      "location": "Knuckles Range",
+      "category": "budget",
+      "price": 6598,
+      "price_range": "economy",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Knuckles Range Lake Side",
+      "location": "Knuckles Range",
+      "category": "standard",
+      "price": 9180,
+      "price_range": "economy",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Knuckles Range Silver Sands",
+      "location": "Knuckles Range",
+      "category": "standard",
+      "price": 11706,
+      "price_range": "midrange",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Knuckles Range Pearl Haven",
+      "location": "Knuckles Range",
+      "category": "luxury",
+      "price": 23125,
+      "price_range": "luxury",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Knuckles Range Azure Grand",
+      "location": "Knuckles Range",
+      "category": "luxury",
+      "price": 28539,
+      "price_range": "luxury",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Ritigala Sunrise Inn",
+      "location": "Ritigala",
+      "category": "budget",
+      "price": 4473,
+      "price_range": "budget",
+      "capacity": "3-7"
+    },
+    {
+      "hotel": "Ritigala Sunrise Inn",
+      "location": "Ritigala",
+      "category": "budget",
+      "price": 4503,
+      "price_range": "budget",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Ritigala Hill Crest Hotel",
+      "location": "Ritigala",
+      "category": "standard",
+      "price": 10836,
+      "price_range": "midrange",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Ritigala Golden Park",
+      "location": "Ritigala",
+      "category": "standard",
+      "price": 10540,
+      "price_range": "midrange",
+      "capacity": "3-7"
+    },
+    {
+      "hotel": "Ritigala Pearl Haven",
+      "location": "Ritigala",
+      "category": "luxury",
+      "price": 28425,
+      "price_range": "luxury",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Ritigala Azure Grand",
+      "location": "Ritigala",
+      "category": "luxury",
+      "price": 28776,
+      "price_range": "luxury",
+      "capacity": "3-7"
+    },
+    {
+      "hotel": "Kalpitiya Lagoon City Rest",
+      "location": "Kalpitiya Lagoon",
+      "category": "budget",
+      "price": 6805,
+      "price_range": "economy",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Kalpitiya Lagoon Palm Stay",
+      "location": "Kalpitiya Lagoon",
+      "category": "budget",
+      "price": 6126,
+      "price_range": "economy",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Kalpitiya Lagoon Lake Side",
+      "location": "Kalpitiya Lagoon",
+      "category": "standard",
+      "price": 13117,
+      "price_range": "midrange",
+      "capacity": "3-7"
+    },
+    {
+      "hotel": "Kalpitiya Lagoon Lake Side",
+      "location": "Kalpitiya Lagoon",
+      "category": "standard",
+      "price": 13535,
+      "price_range": "midrange",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Kalpitiya Lagoon Emerald Palace",
+      "location": "Kalpitiya Lagoon",
+      "category": "luxury",
+      "price": 20733,
+      "price_range": "luxury",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Kalpitiya Lagoon Imperial Heights",
+      "location": "Kalpitiya Lagoon",
+      "category": "luxury",
+      "price": 30794,
+      "price_range": "premium",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Adam’s Peak (Sri Pada) Sunrise Inn",
+      "location": "Adam’s Peak (Sri Pada)",
+      "category": "budget",
+      "price": 5780,
+      "price_range": "economy",
+      "capacity": "3-7"
+    },
+    {
+      "hotel": "Adam’s Peak (Sri Pada) Blue Sky Guest",
+      "location": "Adam’s Peak (Sri Pada)",
+      "category": "budget",
+      "price": 5442,
+      "price_range": "economy",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Adam’s Peak (Sri Pada) Lake Side",
+      "location": "Adam’s Peak (Sri Pada)",
+      "category": "standard",
+      "price": 10563,
+      "price_range": "midrange",
+      "capacity": "1-2"
+    },
+    {
+      "hotel": "Adam’s Peak (Sri Pada) Golden Park",
+      "location": "Adam’s Peak (Sri Pada)",
+      "category": "standard",
+      "price": 8755,
+      "price_range": "economy",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Adam’s Peak (Sri Pada) Azure Grand",
+      "location": "Adam’s Peak (Sri Pada)",
+      "category": "luxury",
+      "price": 30157,
+      "price_range": "premium",
+      "capacity": "more than 7"
+    },
+    {
+      "hotel": "Adam’s Peak (Sri Pada) Azure Grand",
+      "location": "Adam’s Peak (Sri Pada)",
+      "category": "luxury",
+      "price": 31203,
+      "price_range": "premium",
+      "capacity": "more than 7"
+    }
+  ],
+  "total": 330,
+  "fields": [
+    "hotel",
+    "location",
+    "category",
+    "price",
+    "price_range",
+    "capacity"
+  ]
+}

@@ -1,0 +1,304 @@
+feature,importance
+type_luxury,0.851778855016706
+type_standard,0.04036705649538881
+type_budget,0.03925755179566939
+destination_Minneriya National Park,0.003893156751664996
+destination_Ratnapura,0.0035711047528861665
+destination_Weligama,0.003049076783766682
+destination_Pigeon Island,0.002468291618201399
+destination_Ella,0.0021587114278816327
+destination_Kalpitiya,0.0018172899389163788
+hotel_name_Ravana Falls Emerald Palace,0.00173488378917207
+destination_Matara,0.0016565266217430823
+destination_Unawatuna,0.0016470334972047754
+allowedguest_3-7,0.0014312725664223504
+destination_Gampaha,0.0013437947316096313
+hotel_name_Nilaveli Azure Grand,0.0013381060943327664
+destination_Hambantota,0.0013363729981400695
+hotel_name_Unawatuna Royal Crown Resort,0.0012165105702548022
+destination_Badulla,0.001179533677211525
+hotel_name_Dambulla Cave Temple Azure Grand,0.0011682853066784207
+hotel_name_Matara Royal Crown Resort,0.001154979778317999
+destination_Nilaveli,0.0011095578485997837
+hotel_name_Udawalawe National Park Pearl Haven,0.0010065295002590422
+destination_Horton Plains,0.0008847232756083658
+hotel_name_Trincomalee Pearl Haven,0.0008531117652608318
+destination_Habarana,0.0008509136234498249
+destination_Little Adam’s Peak,0.0008368290693583594
+hotel_name_Kurunegala Emerald Palace,0.0008167355610110864
+destination_Dambulla Cave Temple,0.000784501869421027
+hotel_name_Badulla Imperial Heights,0.0007700774992237693
+hotel_name_Trincomalee Imperial Heights,0.0007476379020654953
+destination_Colombo,0.0007147786974895305
+hotel_name_Horton Plains Imperial Heights,0.0006949231292131076
+destination_Jaffna,0.000686271620632357
+destination_Batticaloa,0.0006489774011973643
+allowedguest_1-2,0.0006473638277017305
+destination_Galle,0.0006288245647713449
+hotel_name_Habarana Imperial Heights,0.000589867626870417
+hotel_name_Jaffna Azure Grand,0.0005851645279840345
+hotel_name_Mannar Island Imperial Heights,0.0005847421142846205
+destination_Adam’s Peak (Sri Pada),0.0005823625532365669
+destination_Udawalawe National Park,0.0005589061093961834
+hotel_name_Minneriya National Park Royal Crown Resort,0.0005487053145346772
+hotel_name_Galle Azure Grand,0.0005386990123922145
+hotel_name_Moratuwa Hill Crest Hotel,0.0005217111182356726
+hotel_name_Ratnapura Imperial Heights,0.0004930192105230859
+hotel_name_Mannar Island Emerald Palace,0.00048301527545356696
+hotel_name_Mount Lavinia Imperial Heights,0.00048163163843326095
+hotel_name_Wilpattu National Park Ocean View Hotel,0.0004717082892199668
+hotel_name_Habarana Lake Side,0.0004519472250829945
+destination_Trincomalee,0.0004399532343739805
+destination_Mannar Island,0.0004395318366970954
+hotel_name_Kurunegala Azure Grand,0.0004176306471161815
+hotel_name_Weligama Royal Crown Resort,0.0004119387059380865
+hotel_name_Colombo Royal Crown Resort,0.0004016799593181506
+destination_Mirissa,0.0003911422716402658
+destination_Kesbewa,0.0003709347270796402
+destination_Ravana Falls,0.0003646819873386838
+hotel_name_Adam’s Peak (Sri Pada) Azure Grand,0.000359405464277621
+hotel_name_Kalpitiya Azure Grand,0.00035673892158013295
+hotel_name_Batticaloa Pearl Haven,0.0003471757111549679
+destination_Kurunegala,0.0003434047553721619
+destination_Kalutara,0.00033576448835047134
+destination_Bentota,0.000319798580892752
+hotel_name_Trincomalee Hill Crest Hotel,0.0003151433622182229
+destination_Wilpattu National Park,0.0002972904821509004
+destination_Kalpitiya Lagoon,0.0002685222043209417
+hotel_name_Moratuwa Emerald Palace,0.00025022384144692504
+hotel_name_Athurugiriya Golden Park,0.00024145845045109852
+hotel_name_Udawalawe National Park Azure Grand,0.00022641438320844385
+destination_Sigiriya,0.00022562164724223524
+hotel_name_Kalpitiya Lake Side,0.00021404893181262453
+hotel_name_Little Adam’s Peak Imperial Heights,0.00020598655039590243
+destination_Pasikudah,0.00020587692465086143
+allowedguest_more than 7,0.0002047847653636723
+hotel_name_Colombo Silver Sands,0.0002018722977387709
+destination_Negombo,0.00020053677039188523
+destination_Athurugiriya,0.00019980581518588207
+hotel_name_Gampaha Silver Sands,0.00019619941250383465
+hotel_name_Weligama Pearl Haven,0.00019371023439384734
+hotel_name_Kalutara Imperial Heights,0.00018901412954457254
+hotel_name_Sigiriya Lake Side,0.00018612907316459455
+hotel_name_Mannar Island Hill Crest Hotel,0.0001851619256476612
+destination_Moratuwa,0.00017090818818033722
+hotel_name_Kalpitiya Lagoon Emerald Palace,0.00017064222586136117
+hotel_name_Hambantota Imperial Heights,0.0001617977041257775
+hotel_name_Sigiriya Azure Grand,0.0001521913770857823
+hotel_name_Minneriya National Park Azure Grand,0.00015172004520650512
+hotel_name_Matara Silver Sands,0.00015041918815934937
+hotel_name_Ella Imperial Heights,0.00015003622894018683
+hotel_name_Kalpitiya Lagoon Imperial Heights,0.00014774580464578548
+destination_Nine Arch Bridge,0.00014181288120361694
+hotel_name_Ratnapura Azure Grand,0.00013884057306853213
+hotel_name_Horton Plains Hill Crest Hotel,0.0001360723664076959
+destination_Koneswaram Temple,0.00013527885464919241
+hotel_name_Horton Plains Ocean View Hotel,0.00013406293240626386
+hotel_name_Kalpitiya Lagoon Lake Side,0.00013139688480706978
+hotel_name_Weligama Ocean View Hotel,0.00012909733745928193
+hotel_name_Pigeon Island Imperial Heights,0.00012630478385887745
+destination_Sri Jayewardenepura Kotte,0.00012568075102354173
+destination_Mount Lavinia,0.00012232170665475793
+destination_Mannar,0.00012222840046926053
+hotel_name_Little Adam’s Peak Palm Stay,0.00011821646487211835
+hotel_name_Arugam Bay Palm Stay,0.00011254541110434703
+hotel_name_Koneswaram Temple Imperial Heights,0.00010996740950624251
+hotel_name_Maharagama Emerald Palace,0.00010731253591656177
+hotel_name_Kolonnawa Emerald Palace,0.0001065181099068722
+destination_Nuwara Eliya,0.00010571279948404806
+hotel_name_Pigeon Island Royal Crown Resort,0.00010502499782862613
+destination_Arugam Bay,0.00010321236640345818
+hotel_name_Arugam Bay Silver Sands,0.00010085470200706864
+hotel_name_Mirissa Azure Grand,9.628544303890219e-05
+hotel_name_Kesbewa Lake Side,9.602339116586951e-05
+hotel_name_Puttalam Blue Sky Guest,9.536033285945617e-05
+destination_Ritigala,8.90268153625805e-05
+destination_Kandy,8.869896576730141e-05
+hotel_name_Matara City Rest,7.893313530259957e-05
+destination_Kalkudah,7.89236325131474e-05
+destination_Kolonnawa,7.375423544294697e-05
+hotel_name_Kalkudah Royal Crown Resort,7.342873455143433e-05
+hotel_name_Little Adam’s Peak Hill Crest Hotel,7.117461885490868e-05
+hotel_name_Galle Blue Sky Guest,7.060290335385034e-05
+hotel_name_Unawatuna Hill Crest Hotel,7.057022717100627e-05
+hotel_name_Kalkudah Blue Sky Guest,7.056965349322849e-05
+hotel_name_Galle Lake Side,6.998432166349507e-05
+hotel_name_Kandy Hill Crest Hotel,6.803427796664972e-05
+hotel_name_Badulla Ocean View Hotel,6.688137288702608e-05
+hotel_name_Gampaha Azure Grand,6.645686234718085e-05
+hotel_name_Badulla Silver Sands,6.597858240903133e-05
+hotel_name_Weligama Palm Stay,6.322856405231129e-05
+destination_Kalmunai,6.281549949888168e-05
+hotel_name_Mannar Blue Sky Guest,5.808578393130368e-05
+hotel_name_Sri Jayewardenepura Kotte Lake Side,5.7612056590865325e-05
+hotel_name_Ella Lake Side,5.4438946799047085e-05
+hotel_name_Ritigala Golden Park,5.292942620358974e-05
+hotel_name_Gampaha Royal Crown Resort,5.2841121325508746e-05
+hotel_name_Nine Arch Bridge Silver Sands,5.120553638911209e-05
+hotel_name_Mannar Lake Side,5.0604451457587235e-05
+hotel_name_Kalpitiya Lagoon City Rest,5.0231182524524575e-05
+hotel_name_Nuwara Eliya Azure Grand,4.8505077460312027e-05
+hotel_name_Nine Arch Bridge Green Leaf Lodge,4.734989938892791e-05
+hotel_name_Kalpitiya Emerald Palace,4.696871953510825e-05
+hotel_name_Nine Arch Bridge Hill Crest Hotel,4.668854323732758e-05
+hotel_name_Kalpitiya Green Leaf Lodge,4.582720586317365e-05
+hotel_name_Bentota Sunrise Inn,4.5371515168627385e-05
+destination_Maharagama,4.446257284936448e-05
+hotel_name_Kesbewa Ocean View Hotel,4.439174584000043e-05
+hotel_name_Dambulla Cave Temple Green Leaf Lodge,4.16624338952441e-05
+hotel_name_Puttalam Sunrise Inn,4.129590712343021e-05
+hotel_name_Minneriya National Park Sunrise Inn,3.9500312585632134e-05
+hotel_name_Dambulla Cave Temple Ocean View Hotel,3.8804354500192076e-05
+hotel_name_Ritigala Azure Grand,3.872506095633602e-05
+hotel_name_Trincomalee Emerald Palace,3.8284018724896255e-05
+hotel_name_Bentota Emerald Palace,3.729995270509311e-05
+hotel_name_Hambantota Azure Grand,3.650316926008939e-05
+hotel_name_Minneriya National Park Hill Crest Hotel,3.569260371370033e-05
+hotel_name_Athurugiriya Azure Grand,3.532601965116788e-05
+hotel_name_Maharagama City Rest,3.469638875853066e-05
+destination_Knuckles Range,3.34727402411677e-05
+hotel_name_Bentota Pearl Haven,3.260623214995033e-05
+hotel_name_Udawalawe National Park Sunrise Inn,3.23383130261965e-05
+hotel_name_Kurunegala Blue Sky Guest,2.9169621533922113e-05
+hotel_name_Mannar Pearl Haven,2.8520273527344544e-05
+hotel_name_Pigeon Island Sunrise Inn,2.7004956914991383e-05
+hotel_name_Bentota Hill Crest Hotel,2.6899183998437835e-05
+hotel_name_Pasikudah Azure Grand,2.6101972798543684e-05
+hotel_name_Ravana Falls Blue Sky Guest,2.590056763599871e-05
+hotel_name_Sri Jayewardenepura Kotte Azure Grand,2.5876179466647846e-05
+hotel_name_Kalmunai Golden Park,2.583688401523739e-05
+hotel_name_Trincomalee Azure Grand,2.5758000406129194e-05
+hotel_name_Negombo Pearl Haven,2.3968186808644395e-05
+hotel_name_Maharagama Golden Park,2.333111788136418e-05
+hotel_name_Ella Emerald Palace,2.2797735749263183e-05
+hotel_name_Pasikudah Golden Park,2.244885913596413e-05
+hotel_name_Horton Plains Green Leaf Lodge,2.2356377397133215e-05
+hotel_name_Knuckles Range Blue Sky Guest,2.1742275144677637e-05
+hotel_name_Trincomalee Palm Stay,2.1401798917721357e-05
+destination_Puttalam,1.940909219274239e-05
+hotel_name_Kolonnawa Green Leaf Lodge,1.8353029922902543e-05
+hotel_name_Batticaloa Palm Stay,1.7669286209823494e-05
+hotel_name_Kalmunai Palm Stay,1.729537220431063e-05
+hotel_name_Batticaloa Blue Sky Guest,1.674267942957542e-05
+hotel_name_Trincomalee Golden Park,1.5886398847241357e-05
+hotel_name_Jaffna Golden Park,1.554153425765875e-05
+hotel_name_Gampaha Hill Crest Hotel,1.4680523168482115e-05
+hotel_name_Mirissa City Rest,1.4027469602935122e-05
+hotel_name_Ratnapura Hill Crest Hotel,1.3723616341829266e-05
+hotel_name_Hikkaduwa Hill Crest Hotel,1.3247149684440558e-05
+hotel_name_Habarana Silver Sands,1.3243165110806983e-05
+hotel_name_Ravana Falls Golden Park,1.258731946861642e-05
+hotel_name_Wilpattu National Park Imperial Heights,1.1839069180577931e-05
+destination_Hikkaduwa,1.0809211480241994e-05
+hotel_name_Colombo Sunrise Inn,1.0359302796710896e-05
+hotel_name_Moratuwa Pearl Haven,9.851753521724348e-06
+hotel_name_Pasikudah Blue Sky Guest,9.47281752286476e-06
+hotel_name_Nuwara Eliya Lake Side,8.973999658827412e-06
+hotel_name_Pigeon Island Lake Side,8.821275813827687e-06
+hotel_name_Jaffna Palm Stay,8.43978136250979e-06
+hotel_name_Hambantota Ocean View Hotel,8.14444888705776e-06
+hotel_name_Weligama Golden Park,7.679777872219893e-06
+hotel_name_Mannar Island City Rest,7.4870934599104435e-06
+hotel_name_Sri Jayewardenepura Kotte Sunrise Inn,6.811774918790184e-06
+hotel_name_Batticaloa Golden Park,6.755116239676938e-06
+hotel_name_Sigiriya Palm Stay,6.609701640317065e-06
+hotel_name_Nuwara Eliya Hill Crest Hotel,6.551011562190166e-06
+hotel_name_Nine Arch Bridge Emerald Palace,5.9879549017732884e-06
+hotel_name_Negombo Green Leaf Lodge,5.912220419185815e-06
+hotel_name_Bentota Blue Sky Guest,5.87045325922161e-06
+hotel_name_Kandy Royal Crown Resort,5.683669164803707e-06
+hotel_name_Knuckles Range Lake Side,5.508537988101709e-06
+hotel_name_Mount Lavinia Sunrise Inn,5.380018700843724e-06
+hotel_name_Kalpitiya Ocean View Hotel,5.2980402495656475e-06
+hotel_name_Wilpattu National Park Hill Crest Hotel,4.7402025900401504e-06
+hotel_name_Dambulla Cave Temple Lake Side,4.419600788510341e-06
+hotel_name_Mount Lavinia Golden Park,4.299148876822954e-06
+hotel_name_Pasikudah Hill Crest Hotel,4.198953339898045e-06
+hotel_name_Gampaha City Rest,4.125287896687319e-06
+hotel_name_Mannar Hill Crest Hotel,4.043086451727324e-06
+hotel_name_Bentota Ocean View Hotel,4.024029879429486e-06
+hotel_name_Sigiriya Pearl Haven,3.4265400102481453e-06
+hotel_name_Koneswaram Temple Hill Crest Hotel,3.198948873622895e-06
+hotel_name_Kalutara Hill Crest Hotel,2.8941286623091238e-06
+hotel_name_Ritigala Sunrise Inn,2.654514486151591e-06
+hotel_name_Little Adam’s Peak Golden Park,2.638118774436758e-06
+hotel_name_Negombo City Rest,2.516534619811676e-06
+hotel_name_Moratuwa Ocean View Hotel,2.5037044028623138e-06
+hotel_name_Matara Lake Side,2.4728102065116213e-06
+hotel_name_Dambulla Cave Temple City Rest,2.4219853429535027e-06
+hotel_name_Kurunegala Ocean View Hotel,2.2922894617780403e-06
+hotel_name_Arugam Bay Sunrise Inn,2.202768460609488e-06
+hotel_name_Minneriya National Park City Rest,2.1752144553555255e-06
+hotel_name_Kalkudah Sunrise Inn,1.851607958269325e-06
+hotel_name_Moratuwa Palm Stay,1.6994050909006724e-06
+hotel_name_Nilaveli Silver Sands,1.5944423387093014e-06
+hotel_name_Sigiriya Golden Park,1.5934461066904123e-06
+hotel_name_Kesbewa Palm Stay,1.5121210869295335e-06
+hotel_name_Adam’s Peak (Sri Pada) Blue Sky Guest,1.5106319278960862e-06
+hotel_name_Adam’s Peak (Sri Pada) Lake Side,1.3109161919895371e-06
+hotel_name_Bentota City Rest,1.1189150942603708e-06
+hotel_name_Nilaveli Sunrise Inn,1.0755005976732352e-06
+hotel_name_Badulla Sunrise Inn,1.0419432762893477e-06
+hotel_name_Wilpattu National Park Blue Sky Guest,9.992793819403374e-07
+hotel_name_Gampaha Sunrise Inn,9.96879531109594e-07
+hotel_name_Kolonnawa Lake Side,9.76804708346725e-07
+hotel_name_Bentota Green Leaf Lodge,6.844125138625481e-07
+hotel_name_Ratnapura Palm Stay,6.561389522023498e-07
+hotel_name_Ratnapura Sunrise Inn,6.066387080136301e-07
+hotel_name_Athurugiriya Green Leaf Lodge,5.867799049593458e-07
+hotel_name_Kandy Blue Sky Guest,5.342340565100271e-07
+hotel_name_Pasikudah City Rest,5.26683163490657e-07
+hotel_name_Sri Jayewardenepura Kotte City Rest,5.179246132049153e-07
+hotel_name_Puttalam Azure Grand,0.0
+hotel_name_Pasikudah Royal Crown Resort,0.0
+hotel_name_Kesbewa Green Leaf Lodge,0.0
+hotel_name_Kesbewa Emerald Palace,0.0
+hotel_name_Sigiriya City Rest,0.0
+hotel_name_Kalutara Silver Sands,0.0
+hotel_name_Batticaloa Hill Crest Hotel,0.0
+hotel_name_Pigeon Island City Rest,0.0
+hotel_name_Kalutara Palm Stay,0.0
+hotel_name_Ritigala Hill Crest Hotel,0.0
+hotel_name_Kalutara Blue Sky Guest,0.0
+hotel_name_Sri Jayewardenepura Kotte Imperial Heights,0.0
+hotel_name_Puttalam Royal Crown Resort,0.0
+hotel_name_Jaffna Lake Side,0.0
+hotel_name_Kalmunai Azure Grand,0.0
+hotel_name_Badulla City Rest,0.0
+hotel_name_Ravana Falls Pearl Haven,0.0
+hotel_name_Habarana Blue Sky Guest,0.0
+hotel_name_Kalkudah Lake Side,0.0
+hotel_name_Arugam Bay Royal Crown Resort,0.0
+hotel_name_Kalkudah Hill Crest Hotel,0.0
+hotel_name_Adam’s Peak (Sri Pada) Sunrise Inn,0.0
+hotel_name_Ravana Falls City Rest,0.0
+hotel_name_Sri Jayewardenepura Kotte Hill Crest Hotel,0.0
+hotel_name_Mirissa Hill Crest Hotel,0.0
+hotel_name_Mirissa Blue Sky Guest,0.0
+hotel_name_Kolonnawa Blue Sky Guest,0.0
+hotel_name_Wilpattu National Park Pearl Haven,0.0
+hotel_name_Ella Hill Crest Hotel,0.0
+hotel_name_Galle City Rest,0.0
+hotel_name_Ella City Rest,0.0
+hotel_name_Ella Blue Sky Guest,0.0
+hotel_name_Wilpattu National Park Green Leaf Lodge,0.0
+hotel_name_Galle Golden Park,0.0
+hotel_name_Hikkaduwa Sunrise Inn,0.0
+hotel_name_Habarana Sunrise Inn,0.0
+hotel_name_Mount Lavinia Royal Crown Resort,0.0
+hotel_name_Unawatuna Green Leaf Lodge,0.0
+hotel_name_Maharagama Sunrise Inn,0.0
+hotel_name_Maharagama Royal Crown Resort,0.0
+hotel_name_Little Adam’s Peak Sunrise Inn,0.0
+hotel_name_Colombo Blue Sky Guest,0.0
+hotel_name_Little Adam’s Peak Royal Crown Resort,0.0
+hotel_name_Bentota Silver Sands,0.0
+hotel_name_Unawatuna Azure Grand,0.0
+hotel_name_Negombo Hill Crest Hotel,0.0
+hotel_name_Horton Plains Palm Stay,0.0
+hotel_name_Negombo Lake Side,0.0
+hotel_name_Koneswaram Temple City Rest,0.0
+hotel_name_Nine Arch Bridge Azure Grand,0.0
+hotel_name_Nuwara Eliya Sunrise Inn,0.0
+hotel_name_Kolonnawa Hill Crest Hotel,0.0
+hotel_name_Mirissa Lake Side,0.0

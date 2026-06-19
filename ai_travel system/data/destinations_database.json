@@ -1,0 +1,1221 @@
+{
+  "model_info": {
+    "model_name": "Gradient Boosting",
+    "performance_score": 0.7247947454844007,
+    "trained_date": "2026-01-29",
+    "trained_time": "18:29:36",
+    "num_destinations": 55,
+    "num_features": 12,
+    "categories_available": [
+      "adventure",
+      "beach",
+      "cultural",
+      "hill_country",
+      "relaxation",
+      "urban",
+      "wildlife"
+    ]
+  },
+  "destinations": [
+    {
+      "destination_id": "dest_001",
+      "city": "Colombo",
+      "lat": 6.9344,
+      "lng": 79.8428,
+      "country": "Sri Lanka",
+      "iso2": "LK",
+      "admin_name": "Western",
+      "capital": "primary",
+      "places_to_visit": [
+        "Gangaramaya Temple",
+        "Galle Face Green",
+        "Viharamahadevi Park",
+        "Pettah Market",
+        "National Museum",
+        "Independence Memorial Hall"
+      ],
+      "num_places": 6,
+      "categories": ["relaxation", "urban"],
+      "primary_category": "relaxation",
+      "best_season": "dec_apr",
+      "popularity_score": 100.0,
+      "features": {
+        "has_beach": false,
+        "has_culture": true,
+        "has_wildlife": false,
+        "has_adventure": false,
+        "has_relaxation": true
+      }
+    },
+    {
+      "destination_id": "dest_002",
+      "city": "Mount Lavinia",
+      "lat": 6.8731,
+      "lng": 79.8758,
+      "country": "Sri Lanka",
+      "iso2": "LK",
+      "admin_name": "Western",
+      "capital": "",
+      "places_to_visit": [
+        "Mount Lavinia Beach",
+        "Mount Lavinia Hotel (Historic)",
+        "Our Lady of Sorrows Church"
+      ],
+      "num_places": 3,
+      "categories": ["beach"],
+      "primary_category": "beach",
+      "best_season": "dec_apr",
+      "popularity_score": 30.0,
+      "features": {
+        "has_beach": true,
+        "has_culture": false,
+        "has_wildlife": false,
+        "has_adventure": false,
+        "has_relaxation": false
+      }
+    },
+    {
+      "destination_id": "dest_003",
+      "city": "Kesbewa",
+      "lat": 6.7953,
+      "lng": 79.9386,
+      "country": "Sri Lanka",
+      "iso2": "LK",
+      "admin_name": "Western",
+      "capital": "",
+      "places_to_visit": [
+        "Kesbewa Lake",
+        "Polgasowita Temple",
+        "Bolgoda Lake (Nearby)"
+      ],
+      "num_places": 3,
+      "categories": ["relaxation", "cultural"],
+      "primary_category": "relaxation",
+      "best_season": "dec_apr",
+      "popularity_score": 33.0,
+      "features": {
+        "has_beach": false,
+        "has_culture": true,
+        "has_wildlife": false,
+        "has_adventure": false,
+        "has_relaxation": true
+      }
+    },
+    {
+      "destination_id": "dest_006",
+      "city": "Ratnapura",
+      "lat": 6.6806,
+      "lng": 80.4022,
+      "country": "Sri Lanka",
+      "iso2": "LK",
+      "admin_name": "Sabaragamuwa",
+      "capital": "admin",
+      "places_to_visit": [
+        "Gem Museum",
+        "Maha Saman Devalaya",
+        "Bopath Ella Falls",
+        "Gem Mining Sites",
+        "Katugas Ella"
+      ],
+      "num_places": 5,
+      "categories": ["wildlife", "cultural"],
+      "primary_category": "wildlife",
+      "best_season": "all_year",
+      "popularity_score": 100.0,
+      "features": {
+        "has_beach": false,
+        "has_culture": true,
+        "has_wildlife": true,
+        "has_adventure": false,
+        "has_relaxation": false
+      }
+    },
+    {
+      "destination_id": "dest_007",
+      "city": "Negombo",
+      "lat": 7.2111,
+      "lng": 79.8386,
+      "country": "Sri Lanka",
+      "iso2": "LK",
+      "admin_name": "Western",
+      "capital": "",
+      "places_to_visit": [
+        "Negombo Beach",
+        "Fish Market (Lellama)",
+        "Dutch Canal",
+        "St. Mary's Church",
+        "Angurukaramulla Temple",
+        "Muthurajawela Marsh"
+      ],
+      "num_places": 6,
+      "categories": ["beach"],
+      "primary_category": "beach",
+      "best_season": "dec_apr",
+      "popularity_score": 88.0,
+      "features": {
+        "has_beach": true,
+        "has_culture": false,
+        "has_wildlife": false,
+        "has_adventure": false,
+        "has_relaxation": false
+      }
+    },
+    {
+      "destination_id": "dest_008",
+      "city": "Kandy",
+      "lat": 7.2964,
+      "lng": 80.635,
+      "country": "Sri Lanka",
+      "iso2": "LK",
+      "admin_name": "Central",
+      "capital": "admin",
+      "places_to_visit": [
+        "Temple of the Tooth Relic",
+        "Royal Botanical Gardens Peradeniya",
+        "Kandy Lake",
+        "Bahiravokanda Vihara Buddha Statue",
+        "Udawattakele Sanctuary",
+        "Ceylon Tea Museum"
+      ],
+      "num_places": 6,
+      "categories": ["cultural"],
+      "primary_category": "cultural",
+      "best_season": "jan_apr_aug_dec",
+      "popularity_score": 100.0,
+      "features": {
+        "has_beach": false,
+        "has_culture": true,
+        "has_wildlife": false,
+        "has_adventure": false,
+        "has_relaxation": false
+      }
+    },
+    {
+      "destination_id": "dest_009",
+      "city": "Sri Jayewardenepura Kotte",
+      "lat": 6.9108,
+      "lng": 79.8878,
+      "country": "Sri Lanka",
+      "iso2": "LK",
+      "admin_name": "Western",
+      "capital": "primary",
+      "places_to_visit": [
+        "Parliament Building",
+        "Diyasaru Park",
+        "Beddagana Wetland Park",
+        "Ape Gama"
+      ],
+      "num_places": 4,
+      "categories": ["relaxation"],
+      "primary_category": "relaxation",
+      "best_season": "dec_apr",
+      "popularity_score": 100.0,
+      "features": {
+        "has_beach": false,
+        "has_culture": false,
+        "has_wildlife": false,
+        "has_adventure": false,
+        "has_relaxation": true
+      }
+    },
+    {
+      "destination_id": "dest_011",
+      "city": "Trincomalee",
+      "lat": 8.5667,
+      "lng": 81.2333,
+      "country": "Sri Lanka",
+      "iso2": "LK",
+      "admin_name": "Eastern",
+      "capital": "admin",
+      "places_to_visit": [
+        "Koneswaram Temple",
+        "Nilaveli Beach",
+        "Pigeon Island National Park",
+        "Fort Frederick",
+        "Marble Beach",
+        "Kanniya Hot Springs"
+      ],
+      "num_places": 6,
+      "categories": ["beach", "cultural"],
+      "primary_category": "beach",
+      "best_season": "may_sep",
+      "popularity_score": 100.0,
+      "features": {
+        "has_beach": true,
+        "has_culture": true,
+        "has_wildlife": false,
+        "has_adventure": false,
+        "has_relaxation": false
+      }
+    },
+    {
+      "destination_id": "dest_012",
+      "city": "Galle",
+      "lat": 6.0328,
+      "lng": 80.2156,
+      "country": "Sri Lanka",
+      "iso2": "LK",
+      "admin_name": "Southern",
+      "capital": "admin",
+      "places_to_visit": [
+        "Galle Fort",
+        "Galle Lighthouse",
+        "Dutch Reformed Church",
+        "Jungle Beach",
+        "Unawatuna Beach",
+        "National Maritime Museum"
+      ],
+      "num_places": 6,
+      "categories": ["beach", "cultural"],
+      "primary_category": "beach",
+      "best_season": "dec_apr",
+      "popularity_score": 100.0,
+      "features": {
+        "has_beach": true,
+        "has_culture": true,
+        "has_wildlife": false,
+        "has_adventure": false,
+        "has_relaxation": false
+      }
+    },
+    {
+      "destination_id": "dest_013",
+      "city": "Jaffna",
+      "lat": 9.6647,
+      "lng": 80.0167,
+      "country": "Sri Lanka",
+      "iso2": "LK",
+      "admin_name": "North Central",
+      "capital": "admin",
+      "places_to_visit": [
+        "Jaffna Fort",
+        "Nallur Kandaswamy Kovil",
+        "Jaffna Public Library",
+        "Casuarina Beach",
+        "Keerimalai Springs",
+        "Delft Island"
+      ],
+      "num_places": 6,
+      "categories": ["cultural"],
+      "primary_category": "cultural",
+      "best_season": "jan_apr_aug_dec",
+      "popularity_score": 100.0,
+      "features": {
+        "has_beach": false,
+        "has_culture": true,
+        "has_wildlife": false,
+        "has_adventure": false,
+        "has_relaxation": false
+      }
+    },
+    {
+      "destination_id": "dest_015",
+      "city": "Weligama",
+      "lat": 5.9739,
+      "lng": 80.4294,
+      "country": "Sri Lanka",
+      "iso2": "LK",
+      "admin_name": "Southern",
+      "capital": "",
+      "places_to_visit": [
+        "Weligama Beach (Surfing)",
+        "Stilt Fishermen",
+        "Kushtarajagala Statue",
+        "Taprobane Island"
+      ],
+      "num_places": 4,
+      "categories": ["beach", "adventure"],
+      "primary_category": "beach",
+      "best_season": "dec_apr",
+      "popularity_score": 55.0,
+      "features": {
+        "has_beach": true,
+        "has_culture": false,
+        "has_wildlife": false,
+        "has_adventure": true,
+        "has_relaxation": false
+      }
+    },
+    {
+      "destination_id": "dest_019",
+      "city": "Puttalam",
+      "lat": 8.033,
+      "lng": 79.826,
+      "country": "Sri Lanka",
+      "iso2": "LK",
+      "admin_name": "North Western",
+      "capital": "",
+      "places_to_visit": [
+        "Wilpattu National Park (Entry)",
+        "St. Anne's Church Talawila",
+        "Salt Pans"
+      ],
+      "num_places": 4,
+      "categories": ["wildlife"],
+      "primary_category": "relaxation",
+      "best_season": "dec_apr",
+      "popularity_score": 42.0,
+      "features": {
+        "has_beach": false,
+        "has_culture": false,
+        "has_wildlife": true,
+        "has_adventure": false,
+        "has_relaxation": true
+      }
+    },
+    {
+      "destination_id": "dest_020",
+      "city": "Badulla",
+      "lat": 6.9847,
+      "lng": 81.0564,
+      "country": "Sri Lanka",
+      "iso2": "LK",
+      "admin_name": "Uva",
+      "capital": "admin",
+      "places_to_visit": [
+        "Muthiyangana Raja Maha Vihara",
+        "Dunhinda Falls",
+        "Bogoda Wooden Bridge",
+        "Demodara Nine Arch Bridge"
+      ],
+      "num_places": 4,
+      "categories": ["wildlife"],
+      "primary_category": "wildlife",
+      "best_season": "jan_apr_aug_dec",
+      "popularity_score": 100.0,
+      "features": {
+        "has_beach": false,
+        "has_culture": false,
+        "has_wildlife": true,
+        "has_adventure": false,
+        "has_relaxation": false
+      }
+    },
+    {
+      "destination_id": "dest_023",
+      "city": "Mannar",
+      "lat": 8.9667,
+      "lng": 79.8833,
+      "country": "Sri Lanka",
+      "iso2": "LK",
+      "admin_name": "North Central",
+      "capital": "",
+      "places_to_visit": [
+        "Mannar Fort",
+        "Baobab Tree",
+        "Thiruketheeswaram Temple",
+        "Adam's Bridge",
+        "Mannar Bird Sanctuary"
+      ],
+      "num_places": 5,
+      "categories": ["wildlife", "cultural"],
+      "primary_category": "wildlife",
+      "best_season": "jan_apr_aug_dec",
+      "popularity_score": 63.0,
+      "features": {
+        "has_beach": false,
+        "has_culture": true,
+        "has_wildlife": true,
+        "has_adventure": false,
+        "has_relaxation": false
+      }
+    },
+    {
+      "destination_id": "dest_024",
+      "city": "Kurunegala",
+      "lat": 7.4833,
+      "lng": 80.3667,
+      "country": "Sri Lanka",
+      "iso2": "LK",
+      "admin_name": "North Western",
+      "capital": "admin",
+      "places_to_visit": [
+        "Ethagala (Elephant Rock)",
+        "Kurunegala Lake",
+        "Yapahuwa Rock Fortress",
+        "Ridi Vihara",
+        "Arankele Monastery"
+      ],
+      "num_places": 5,
+      "categories": ["relaxation", "wildlife", "adventure", "cultural"],
+      "primary_category": "adventure",
+      "best_season": "dec_apr",
+      "popularity_score": 100.0,
+      "features": {
+        "has_beach": false,
+        "has_culture": true,
+        "has_wildlife": true,
+        "has_adventure": true,
+        "has_relaxation": true
+      }
+    },
+    {
+      "destination_id": "dest_025",
+      "city": "Hambantota",
+      "lat": 6.1242,
+      "lng": 81.1266,
+      "country": "Sri Lanka",
+      "iso2": "LK",
+      "admin_name": "Southern",
+      "capital": "",
+      "places_to_visit": [
+        "Bundala National Park",
+        "Ridiyagama Safari Park",
+        "Hambantota Botanical Garden",
+        "Mirijjawila Botanical Garden",
+        "Mahapelessa Hot Springs"
+      ],
+      "num_places": 5,
+      "categories": ["relaxation", "wildlife"],
+      "primary_category": "wildlife",
+      "best_season": "dec_apr",
+      "popularity_score": 59.0,
+      "features": {
+        "has_beach": false,
+        "has_culture": false,
+        "has_wildlife": true,
+        "has_adventure": false,
+        "has_relaxation": true
+      }
+    },
+    {
+      "destination_id": "dest_026",
+      "city": "Sigiriya",
+      "lat": 7.956944,
+      "lng": 80.75972,
+      "country": "Sri Lanka",
+      "iso2": "LK",
+      "admin_name": "Central",
+      "capital": "",
+      "places_to_visit": [
+        "Sigiriya Rock Fortress",
+        "Pidurangala Rock",
+        "Sigiriya Museum",
+        "Minneriya Safari (Nearby)"
+      ],
+      "num_places": 4,
+      "categories": ["cultural"],
+      "primary_category": "cultural",
+      "best_season": "jan_apr_aug_dec",
+      "popularity_score": 73.0,
+      "features": {
+        "has_beach": false,
+        "has_culture": true,
+        "has_wildlife": false,
+        "has_adventure": false,
+        "has_relaxation": false
+      }
+    },
+    {
+      "destination_id": "dest_029",
+      "city": "Hikkaduwa",
+      "lat": 6.139468,
+      "lng": 80.106285,
+      "country": "Sri Lanka",
+      "iso2": "LK",
+      "admin_name": "Southern",
+      "capital": "",
+      "places_to_visit": [
+        "Hikkaduwa Coral Reef",
+        "Hikkaduwa Beach",
+        "Turtle Hatchery",
+        "Community Tsunami Museum",
+        "Seenigama Vihara"
+      ],
+      "num_places": 5,
+      "categories": ["beach"],
+      "primary_category": "beach",
+      "best_season": "dec_apr",
+      "popularity_score": 85.0,
+      "features": {
+        "has_beach": true,
+        "has_culture": false,
+        "has_wildlife": false,
+        "has_adventure": false,
+        "has_relaxation": false
+      }
+    },
+    {
+      "destination_id": "dest_030",
+      "city": "Udawalawe National Park",
+      "lat": 6.4145,
+      "lng": 80.2397,
+      "country": "Sri Lanka",
+      "iso2": "LK",
+      "admin_name": "Southern",
+      "capital": "",
+      "places_to_visit": [
+        "Elephant Safari",
+        "Udawalawe Reservoir",
+        "Elephant Transit Home"
+      ],
+      "num_places": 3,
+      "categories": ["wildlife"],
+      "primary_category": "wildlife",
+      "best_season": "dec_apr",
+      "popularity_score": 41.0,
+      "features": {
+        "has_beach": false,
+        "has_culture": false,
+        "has_wildlife": true,
+        "has_adventure": false,
+        "has_relaxation": false
+      }
+    },
+    {
+      "destination_id": "dest_032",
+      "city": "Wilpattu National Park",
+      "lat": 8.3561,
+      "lng": 79.9951,
+      "country": "Sri Lanka",
+      "iso2": "LK",
+      "admin_name": "North Western",
+      "capital": "",
+      "places_to_visit": [
+        "Leopard Safaris",
+        "Villus (Natural Lakes)",
+        "Ancient Ruins of Kuweni"
+      ],
+      "num_places": 3,
+      "categories": ["wildlife"],
+      "primary_category": "relaxation",
+      "best_season": "dec_apr",
+      "popularity_score": 36.0,
+      "features": {
+        "has_beach": false,
+        "has_culture": false,
+        "has_wildlife": true,
+        "has_adventure": false,
+        "has_relaxation": true
+      }
+    },
+    {
+      "destination_id": "dest_033",
+      "city": "Horton Plains",
+      "lat": 6.8,
+      "lng": 80.8,
+      "country": "Sri Lanka",
+      "iso2": "LK",
+      "admin_name": "Central",
+      "capital": "",
+      "places_to_visit": [
+        "World's End",
+        "Baker's Falls",
+        "Mini World's End",
+        "Chimney Pool"
+      ],
+      "num_places": 4,
+      "categories": ["wildlife"],
+      "primary_category": "wildlife",
+      "best_season": "jan_apr_aug_dec",
+      "popularity_score": 49.0,
+      "features": {
+        "has_beach": false,
+        "has_culture": false,
+        "has_wildlife": true,
+        "has_adventure": false,
+        "has_relaxation": false
+      }
+    },
+    {
+      "destination_id": "dest_034",
+      "city": "Ella",
+      "lat": 6.8531,
+      "lng": 81.071,
+      "country": "Sri Lanka",
+      "iso2": "LK",
+      "admin_name": "Uva",
+      "capital": "",
+      "places_to_visit": [
+        "Nine Arch Bridge",
+        "Little Adam's Peak",
+        "Ella Rock",
+        "Ravana Falls",
+        "Ravana Caves"
+      ],
+      "num_places": 5,
+      "categories": ["wildlife", "adventure"],
+      "primary_category": "wildlife",
+      "best_season": "jan_apr_aug_dec",
+      "popularity_score": 86.0,
+      "features": {
+        "has_beach": false,
+        "has_culture": false,
+        "has_wildlife": true,
+        "has_adventure": true,
+        "has_relaxation": false
+      }
+    },
+    {
+      "destination_id": "dest_035",
+      "city": "Little Adam’s Peak",
+      "lat": 6.8434,
+      "lng": 81.0707,
+      "country": "Sri Lanka",
+      "iso2": "LK",
+      "admin_name": "Uva",
+      "capital": "",
+      "places_to_visit": [
+        "Hiking Trail",
+        "Panoramic Views of Ella Gap",
+        "Ziplining"
+      ],
+      "num_places": 3,
+      "categories": ["adventure"],
+      "primary_category": "relaxation",
+      "best_season": "jan_apr_aug_dec",
+      "popularity_score": 45.0,
+      "features": {
+        "has_beach": false,
+        "has_culture": false,
+        "has_wildlife": false,
+        "has_adventure": true,
+        "has_relaxation": false
+      }
+    },
+    {
+      "destination_id": "dest_036",
+      "city": "Nine Arch Bridge",
+      "lat": 6.8735,
+      "lng": 81.04,
+      "country": "Sri Lanka",
+      "iso2": "LK",
+      "admin_name": "Uva",
+      "capital": "",
+      "places_to_visit": [
+        "Architectural Marvel",
+        "Train Spotting",
+        "Demodara Loop (Nearby)"
+      ],
+      "num_places": 3,
+      "categories": ["hill_country"],
+      "primary_category": "hill_country",
+      "best_season": "jan_apr_aug_dec",
+      "popularity_score": 40.0,
+      "features": {
+        "has_beach": false,
+        "has_culture": false,
+        "has_wildlife": false,
+        "has_adventure": false,
+        "has_relaxation": false
+      }
+    },
+    {
+      "destination_id": "dest_037",
+      "city": "Ravana Falls",
+      "lat": 6.8711,
+      "lng": 80.9889,
+      "country": "Sri Lanka",
+      "iso2": "LK",
+      "admin_name": "Uva",
+      "capital": "",
+      "places_to_visit": [
+        "Waterfall",
+        "Legend of King Ravana",
+        "Ravana Caves"
+      ],
+      "num_places": 3,
+      "categories": ["relaxation"],
+      "primary_category": "wildlife",
+      "best_season": "jan_apr_aug_dec",
+      "popularity_score": 36.0,
+      "features": {
+        "has_beach": false,
+        "has_culture": false,
+        "has_wildlife": false,
+        "has_adventure": false,
+        "has_relaxation": true
+      }
+    },
+    {
+      "destination_id": "dest_038",
+      "city": "Nuwara Eliya",
+      "lat": 6.9497,
+      "lng": 80.789,
+      "country": "Sri Lanka",
+      "iso2": "LK",
+      "admin_name": "Central",
+      "capital": "",
+      "places_to_visit": [
+        "Gregory Lake",
+        "Victoria Park",
+        "Hakgala Botanical Garden",
+        "Pedro Tea Estate",
+        "Seetha Amman Temple",
+        "Lovers Leap Waterfall"
+      ],
+      "num_places": 6,
+      "categories": ["relaxation", "wildlife", "cultural"],
+      "primary_category": "relaxation",
+      "best_season": "jan_apr_aug_dec",
+      "popularity_score": 88.0,
+      "features": {
+        "has_beach": false,
+        "has_culture": true,
+        "has_wildlife": true,
+        "has_adventure": false,
+        "has_relaxation": true
+      }
+    },
+    {
+      "destination_id": "dest_039",
+      "city": "Dambulla Cave Temple",
+      "lat": 7.856,
+      "lng": 80.651,
+      "country": "Sri Lanka",
+      "iso2": "LK",
+      "admin_name": "Central",
+      "capital": "",
+      "places_to_visit": [
+        "Golden Temple",
+        "Cave Murals",
+        "Buddha Statues",
+        "Iron Wood Forest (Nearby)"
+      ],
+      "num_places": 4,
+      "categories": ["cultural"],
+      "primary_category": "wildlife",
+      "best_season": "jan_apr_aug_dec",
+      "popularity_score": 54.0,
+      "features": {
+        "has_beach": false,
+        "has_culture": true,
+        "has_wildlife": false,
+        "has_adventure": false,
+        "has_relaxation": false
+      }
+    },
+    {
+      "destination_id": "dest_041",
+      "city": "Pasikudah",
+      "lat": 8.71,
+      "lng": 81.1799,
+      "country": "Sri Lanka",
+      "iso2": "LK",
+      "admin_name": "Eastern",
+      "capital": "",
+      "places_to_visit": [
+        "Pasikudah Beach",
+        "Shallow Reef Snorkeling",
+        "Water Sports"
+      ],
+      "num_places": 3,
+      "categories": ["beach", "adventure"],
+      "primary_category": "beach",
+      "best_season": "may_sep",
+      "popularity_score": 49.0,
+      "features": {
+        "has_beach": true,
+        "has_culture": false,
+        "has_wildlife": false,
+        "has_adventure": true,
+        "has_relaxation": false
+      }
+    },
+    {
+      "destination_id": "dest_042",
+      "city": "Kalkudah",
+      "lat": 8.722,
+      "lng": 81.185,
+      "country": "Sri Lanka",
+      "iso2": "LK",
+      "admin_name": "Eastern",
+      "capital": "",
+      "places_to_visit": [
+        "Kalkudah Beach",
+        "Coconut Cultivation Board (Nearby)"
+      ],
+      "num_places": 2,
+      "categories": ["beach"],
+      "primary_category": "beach",
+      "best_season": "may_sep",
+      "popularity_score": 31.0,
+      "features": {
+        "has_beach": true,
+        "has_culture": false,
+        "has_wildlife": false,
+        "has_adventure": false,
+        "has_relaxation": false
+      }
+    },
+    {
+      "destination_id": "dest_043",
+      "city": "Mirissa",
+      "lat": 5.948,
+      "lng": 80.4541,
+      "country": "Sri Lanka",
+      "iso2": "LK",
+      "admin_name": "Southern",
+      "capital": "",
+      "places_to_visit": [
+        "Whale Watching",
+        "Coconut Tree Hill",
+        "Parrot Rock",
+        "Mirissa Beach",
+        "Secret Beach"
+      ],
+      "num_places": 5,
+      "categories": ["beach", "adventure"],
+      "primary_category": "beach",
+      "best_season": "dec_apr",
+      "popularity_score": 86.0,
+      "features": {
+        "has_beach": true,
+        "has_culture": false,
+        "has_wildlife": false,
+        "has_adventure": true,
+        "has_relaxation": false
+      }
+    },
+    {
+      "destination_id": "dest_044",
+      "city": "Arugam Bay",
+      "lat": 6.831,
+      "lng": 81.708,
+      "country": "Sri Lanka",
+      "iso2": "LK",
+      "admin_name": "Eastern",
+      "capital": "",
+      "places_to_visit": [
+        "Surfing",
+        "Muhudu Maha Vihara",
+        "Elephant Rock",
+        "Kumana National Park (Nearby)"
+      ],
+      "num_places": 4,
+      "categories": ["cultural", "adventure", "wildlife", "relaxation", "beach"],
+      "primary_category": "cultural",
+      "best_season": "may_sep",
+      "popularity_score": 84.0,
+      "features": {
+        "has_beach": true,
+        "has_culture": true,
+        "has_wildlife": true,
+        "has_adventure": true,
+        "has_relaxation": true
+      }
+    },
+    {
+      "destination_id": "dest_045",
+      "city": "Trincomalee",
+      "lat": 8.5873,
+      "lng": 81.2152,
+      "country": "Sri Lanka",
+      "iso2": "LK",
+      "admin_name": "Eastern",
+      "capital": "",
+      "places_to_visit": [
+        "Koneswaram Temple",
+        "Nilaveli Beach",
+        "Pigeon Island National Park",
+        "Fort Frederick",
+        "Marble Beach",
+        "Kanniya Hot Springs"
+      ],
+      "num_places": 6,
+      "categories": ["relaxation", "wildlife", "beach", "cultural"],
+      "primary_category": "relaxation",
+      "best_season": "may_sep",
+      "popularity_score": 87.0,
+      "features": {
+        "has_beach": true,
+        "has_culture": true,
+        "has_wildlife": true,
+        "has_adventure": false,
+        "has_relaxation": true
+      }
+    },
+    {
+      "destination_id": "dest_046",
+      "city": "Koneswaram Temple",
+      "lat": 8.5753,
+      "lng": 81.2331,
+      "country": "Sri Lanka",
+      "iso2": "LK",
+      "admin_name": "Eastern",
+      "capital": "",
+      "places_to_visit": [
+        "Hindu Temple",
+        "Lovers Leap (Trinco)",
+        "Swami Rock",
+        "Gokana Temple"
+      ],
+      "num_places": 4,
+      "categories": ["adventure", "cultural"],
+      "primary_category": "adventure",
+      "best_season": "may_sep",
+      "popularity_score": 40.0,
+      "features": {
+        "has_beach": false,
+        "has_culture": true,
+        "has_wildlife": false,
+        "has_adventure": true,
+        "has_relaxation": false
+      }
+    },
+    {
+      "destination_id": "dest_047",
+      "city": "Pigeon Island",
+      "lat": 8.6097,
+      "lng": 81.34,
+      "country": "Sri Lanka",
+      "iso2": "LK",
+      "admin_name": "Eastern",
+      "capital": "",
+      "places_to_visit": [
+        "Snorkeling",
+        "Coral Reefs",
+        "Marine Biodiversity"
+      ],
+      "num_places": 3,
+      "categories": ["beach"],
+      "primary_category": "beach",
+      "best_season": "may_sep",
+      "popularity_score": 38.0,
+      "features": {
+        "has_beach": true,
+        "has_culture": false,
+        "has_wildlife": false,
+        "has_adventure": false,
+        "has_relaxation": false
+      }
+    },
+    {
+      "destination_id": "dest_048",
+      "city": "Kalpitiya",
+      "lat": 8.1833,
+      "lng": 79.6689,
+      "country": "Sri Lanka",
+      "iso2": "LK",
+      "admin_name": "North Western",
+      "capital": "",
+      "places_to_visit": [
+        "Dolphin Watching",
+        "Kite Surfing",
+        "Kalpitiya Lagoon",
+        "Dutch Fort Kalpitiya"
+      ],
+      "num_places": 4,
+      "categories": ["beach", "adventure", "cultural"],
+      "primary_category": "beach",
+      "best_season": "dec_apr",
+      "popularity_score": 44.0,
+      "features": {
+        "has_beach": true,
+        "has_culture": true,
+        "has_wildlife": false,
+        "has_adventure": true,
+        "has_relaxation": false
+      }
+    },
+    {
+      "destination_id": "dest_049",
+      "city": "Mannar Island",
+      "lat": 9.1,
+      "lng": 79.915,
+      "country": "Sri Lanka",
+      "iso2": "LK",
+      "admin_name": "Northern",
+      "capital": "",
+      "places_to_visit": [
+        "Baobab Tree",
+        "Adam's Bridge",
+        "Mannar Fort",
+        "Bird Watching"
+      ],
+      "num_places": 4,
+      "categories": ["wildlife", "beach", "cultural"],
+      "primary_category": "wildlife",
+      "best_season": "all_year",
+      "popularity_score": 56.0,
+      "features": {
+        "has_beach": true,
+        "has_culture": true,
+        "has_wildlife": true,
+        "has_adventure": false,
+        "has_relaxation": false
+      }
+    },
+    {
+      "destination_id": "dest_050",
+      "city": "Nilaveli",
+      "lat": 8.8,
+      "lng": 81.2,
+      "country": "Sri Lanka",
+      "iso2": "LK",
+      "admin_name": "Eastern",
+      "capital": "",
+      "places_to_visit": [
+        "Nilaveli Beach",
+        "Pigeon Island Boat Trip",
+        "Marble Beach (Nearby)"
+      ],
+      "num_places": 3,
+      "categories": ["beach"],
+      "primary_category": "beach",
+      "best_season": "may_sep",
+      "popularity_score": 42.0,
+      "features": {
+        "has_beach": true,
+        "has_culture": false,
+        "has_wildlife": false,
+        "has_adventure": false,
+        "has_relaxation": false
+      }
+    },
+    {
+      "destination_id": "dest_051",
+      "city": "Batticaloa",
+      "lat": 7.722,
+      "lng": 81.695,
+      "country": null,
+      "iso2": null,
+      "admin_name": "Eastern",
+      "capital": "",
+      "places_to_visit": [
+        "Batticaloa Fort",
+        "Kallady Bridge",
+        "Batticaloa Lagoon",
+        "Singing Fish",
+        "Lighthouse"
+      ],
+      "num_places": 5,
+      "categories": ["beach", "cultural"],
+      "primary_category": "beach",
+      "best_season": "may_sep",
+      "popularity_score": 60.0,
+      "features": {
+        "has_beach": true,
+        "has_culture": true,
+        "has_wildlife": false,
+        "has_adventure": false,
+        "has_relaxation": false
+      }
+    },
+    {
+      "destination_id": "dest_052",
+      "city": "Knuckles Range",
+      "lat": 7.4,
+      "lng": 80.6667,
+      "country": null,
+      "iso2": null,
+      "admin_name": "Central",
+      "capital": "",
+      "places_to_visit": [
+        "Trekking",
+        "Mini World's End (Knuckles)",
+        "Riverston",
+        "Pitawala Pathana"
+      ],
+      "num_places": 4,
+      "categories": ["adventure"],
+      "primary_category": "adventure",
+      "best_season": "jan_apr_aug_dec",
+      "popularity_score": 53.0,
+      "features": {
+        "has_beach": false,
+        "has_culture": false,
+        "has_wildlife": false,
+        "has_adventure": true,
+        "has_relaxation": false
+      }
+    },
+    {
+      "destination_id": "dest_053",
+      "city": "Ritigala",
+      "lat": 8.1994,
+      "lng": 80.8958,
+      "country": null,
+      "iso2": null,
+      "admin_name": "North Central",
+      "capital": "",
+      "places_to_visit": [
+        "Ancient Monastery Ruins",
+        "Archeological Reserve",
+        "Ayurvedic Forest"
+      ],
+      "num_places": 3,
+      "categories": ["wildlife", "cultural"],
+      "primary_category": "wildlife",
+      "best_season": "jan_apr_aug_dec",
+      "popularity_score": 34.0,
+      "features": {
+        "has_beach": false,
+        "has_culture": true,
+        "has_wildlife": true,
+        "has_adventure": false,
+        "has_relaxation": false
+      }
+    },
+    {
+      "destination_id": "dest_054",
+      "city": "Kalpitiya Lagoon",
+      "lat": 8.1818,
+      "lng": 79.6398,
+      "country": null,
+      "iso2": null,
+      "admin_name": "North Western",
+      "capital": "",
+      "places_to_visit": [
+        "Boat Rides",
+        "Mangrove Exploration",
+        "Bird Watching"
+      ],
+      "num_places": 3,
+      "categories": ["wildlife", "beach"],
+      "primary_category": "wildlife",
+      "best_season": "dec_apr",
+      "popularity_score": 46.0,
+      "features": {
+        "has_beach": true,
+        "has_culture": false,
+        "has_wildlife": true,
+        "has_adventure": false,
+        "has_relaxation": false
+      }
+    },
+    {
+      "destination_id": "dest_055",
+      "city": "Adam’s Peak (Sri Pada)",
+      "lat": 6.8096,
+      "lng": 80.4994,
+      "country": null,
+      "iso2": null,
+      "admin_name": "Central",
+      "capital": "",
+      "places_to_visit": [
+        "Pilgrimage",
+        "Sunrise Views",
+        "Footprint of Buddha",
+        "Peak Wilderness Sanctuary"
+      ],
+      "num_places": 4,
+      "categories": ["relaxation", "wildlife", "adventure"],
+      "primary_category": "relaxation",
+      "best_season": "jan_apr_aug_dec",
+      "popularity_score": 48.0,
+      "features": {
+        "has_beach": false,
+        "has_culture": false,
+        "has_wildlife": true,
+        "has_adventure": true,
+        "has_relaxation": true
+      }
+    }
+  ],
+  "feature_importance": {},
+  "season_mapping": {
+    "1": "dec_apr",
+    "2": "dec_apr",
+    "3": "dec_apr",
+    "4": "dec_apr",
+    "5": "may_sep",
+    "6": "may_sep",
+    "7": "may_sep",
+    "8": "may_sep",
+    "9": "may_sep",
+    "10": "jan_apr_aug_dec",
+    "11": "jan_apr_aug_dec",
+    "12": "dec_apr"
+  }
+}

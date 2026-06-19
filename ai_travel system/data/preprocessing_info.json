@@ -1,0 +1,28 @@
+{
+    "numeric_features": [],
+    "categorical_features": [
+        "hotel_name",
+        "destination",
+        "type",
+        "allowedguest"
+    ],
+    "target_column": "price",
+    "label_encoders": {
+        "type": {
+            "classes": [
+                "budget",
+                "luxury",
+                "standard"
+            ],
+            "n_classes": 3
+        },
+        "allowedguest": {
+            "classes": [
+                "1-2",
+                "3-7",
+                "more than 7"
+            ],
+            "n_classes": 3
+        }
+    }
+}

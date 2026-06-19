@@ -1,0 +1,89 @@
+{
+    "created_at": "2026-02-04 15:22:53",
+    "features": {
+        "all": [
+            "hotel_name",
+            "destination",
+            "type",
+            "allowedguest"
+        ],
+        "numeric": [],
+        "categorical": [
+            "hotel_name",
+            "destination",
+            "type",
+            "allowedguest"
+        ]
+    },
+    "target_column": "price",
+    "dataset_shape": {
+        "rows": 330,
+        "columns": 5
+    },
+    "performance": {
+        "train": {
+            "mse": 2091931.6500590015,
+            "rmse": 1446.3511503293387,
+            "mae": 1022.2517063191436,
+            "r2": 0.9764361290406541
+        },
+        "test": {
+            "mse": 8259793.181619752,
+            "rmse": 2873.985591755768,
+            "mae": 2240.287613636364,
+            "r2": 0.9016527209786291
+        },
+        "tuned_test": {
+            "mse": 8100293.105168824,
+            "rmse": 2846.1013870150205,
+            "mae": 2246.3881088208786,
+            "r2": 0.9035518482543042
+        },
+        "cv_mean": 0.8529951795196101,
+        "cv_std": 0.03960190897297178
+    },
+    "best_parameters": {
+        "regressor__max_depth": 10,
+        "regressor__min_samples_leaf": 1,
+        "regressor__min_samples_split": 5,
+        "regressor__n_estimators": 200
+    },
+    "sample_single_input": {
+        "hotel_name": "Colombo Sunrise Inn",
+        "destination": "Colombo",
+        "type": "budget",
+        "allowedguest": "1-2"
+    },
+    "sample_multi_input": [
+        {
+            "hotel_name": "Colombo Sunrise Inn",
+            "destination": "Colombo",
+            "type": "budget",
+            "allowedguest": "1-2"
+        },
+        {
+            "hotel_name": "Colombo Blue Sky Guest",
+            "destination": "Colombo",
+            "type": "budget",
+            "allowedguest": "1-2"
+        },
+        {
+            "hotel_name": "Colombo Silver Sands",
+            "destination": "Colombo",
+            "type": "standard",
+            "allowedguest": "more than 7"
+        },
+        {
+            "hotel_name": "Colombo Silver Sands",
+            "destination": "Colombo",
+            "type": "standard",
+            "allowedguest": "1-2"
+        },
+        {
+            "hotel_name": "Colombo Royal Crown Resort",
+            "destination": "Colombo",
+            "type": "luxury",
+            "allowedguest": "3-7"
+        }
+    ]
+}
